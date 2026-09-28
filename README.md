@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Somnius&style=for-the-badge&color=c2f66d&label=VISITORS" alt="Profile visitors">
 </p>
 
-## Hi, I'm Lefteris
+## Hi, I'm Lefteris, or just Lef
 
 A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. By day I keep companies' servers and ERP running; the rest of the time I build things with whatever is new. Lately that means AI that runs on your own machine and plugins for [Omarchy](https://omarchy.org). On forums and almost everywhere else I'm **SomniusX**.
 
