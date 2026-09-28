@@ -105,9 +105,10 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 Τα δικά σου μοντέλα από το LM Studio (ή όποιο συμβατό endpoint) μέσα στο Claude Code, στο τερματικό ή σε fork του VS Code.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Somnius/kde-plasma-6-backup"><img src="assets/cards/kde-plasma-6-backup.webp" alt="KDE Plasma 6 Backup"></a>
-<b><a href="https://github.com/Somnius/kde-plasma-6-backup">kde-plasma-6-backup</a></b> <img src="https://img.shields.io/github/stars/Somnius/kde-plasma-6-backup?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
-Αντίγραφο ασφαλείας και επαναφορά για όλο το KDE Plasma 6: ρυθμίσεις, θέματα, πάνελ και προτιμήσεις χρήστη.
+<a href="https://github.com/Somnius/EucWorldPebble"><img src="assets/cards/eucworldpebble.webp" alt="EUC World on Pebble"></a>
+<b><a href="https://github.com/Somnius/EucWorldPebble">EucWorldPebble</a></b> <img src="https://img.shields.io/github/stars/Somnius/EucWorldPebble?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
+Εφαρμογή για ρολόι Pebble που συνεργάζεται με το EUC World για ηλεκτρικά μονόκυκλα. Δείχνει στον καρπό σου ταχύτητα, μπαταρία, θερμοκρασία, τάση και ρεύμα. Έχει δύο όψεις, Ρεύμα &amp; Τάση και Ώρα &amp; Τάση με μεγάλο δείκτη ταχύτητας, και τρέχει σε κάθε Pebble, και στα στρογγυλά. Τη φτιάξαμε με τον Alex Kintis πάνω στο WheelLogPebble.<br>
+<a href="https://github.com/Somnius/EucWorldPebble/releases">Κατέβασε το .pbw →</a>
 </td>
 </tr>
 <tr>
@@ -139,7 +140,7 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 | [Kreep-Out](https://github.com/Somnius/Kreep-Out) | Κράτα μακριά από το Mac σου ό,τι σε ενοχλεί |
 | [Moto-X-2014-Flash](https://github.com/Somnius/Moto-X-2014-Flash) · [Warning Boot Logo Remover](https://github.com/Somnius/Moto-X-2014-Warning-Boot-Logo-Remover) | Εργαλεία flashing για το Moto X 2014 ([στο lefteros.com](https://lefteros.com/apps/moto-x-miflash/)) |
 | [XH_Home_for_TV](https://github.com/Somnius/XH_Home_for_TV) | Ελληνική έκδοση του launcher για το Xiaomi TV box |
-| [EucWorldPebble](https://github.com/Somnius/EucWorldPebble) | Δεδομένα μονόκυκλου (EUC) σε ρολόι Pebble |
+| [kde-plasma-6-backup](https://github.com/Somnius/kde-plasma-6-backup) | Αντίγραφο ασφαλείας και επαναφορά για KDE Plasma 6 |
 
 </details>
 

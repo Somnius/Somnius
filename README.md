@@ -105,9 +105,10 @@ Offline dictation for Arch + Hyprland and Fedora KDE on Wayland, built on whispe
 Run your own LM Studio models (or any compatible endpoint) inside Claude Code, in the terminal or in a VS Code fork. Pick a model, set it up, launch.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Somnius/kde-plasma-6-backup"><img src="assets/cards/kde-plasma-6-backup.webp" alt="KDE Plasma 6 Backup"></a>
-<b><a href="https://github.com/Somnius/kde-plasma-6-backup">kde-plasma-6-backup</a></b> <img src="https://img.shields.io/github/stars/Somnius/kde-plasma-6-backup?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
-Back up and restore a whole KDE Plasma 6 desktop: settings, themes, panels and user preferences.
+<a href="https://github.com/Somnius/EucWorldPebble"><img src="assets/cards/eucworldpebble.webp" alt="EUC World on Pebble"></a>
+<b><a href="https://github.com/Somnius/EucWorldPebble">EucWorldPebble</a></b> <img src="https://img.shields.io/github/stars/Somnius/EucWorldPebble?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
+A Pebble watch app for the EUC World app for electric unicycles. It puts speed, battery, temperature, voltage and current on your wrist. There are two faces, Current &amp; Voltage and Time &amp; Voltage with a big speed gauge, and they run on every Pebble, round ones included. I built it with Alex Kintis on top of WheelLogPebble.<br>
+<a href="https://github.com/Somnius/EucWorldPebble/releases">Download the .pbw →</a>
 </td>
 </tr>
 <tr>
@@ -139,7 +140,7 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 | [Kreep-Out](https://github.com/Somnius/Kreep-Out) | Keep what creeps you out away from your Mac |
 | [Moto-X-2014-Flash](https://github.com/Somnius/Moto-X-2014-Flash) · [Warning Boot Logo Remover](https://github.com/Somnius/Moto-X-2014-Warning-Boot-Logo-Remover) | Moto X 2014 flashing tools ([on lefteros.com](https://lefteros.com/en/apps/moto-x-miflash/)) |
 | [XH_Home_for_TV](https://github.com/Somnius/XH_Home_for_TV) | A Greek build of the Xiaomi TV box launcher |
-| [EucWorldPebble](https://github.com/Somnius/EucWorldPebble) | Electric unicycle data on a Pebble watch |
+| [kde-plasma-6-backup](https://github.com/Somnius/kde-plasma-6-backup) | Back up and restore a KDE Plasma 6 desktop |
 
 </details>
 
