@@ -1,0 +1,35 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/snake.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Draw the contribution snake in the lefteros.com palette
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#c2f66d&color_dots=#1b211d,#2f4a1f,#4f7a2c,#86b04a,#c2f66d&color_dot_border=#111513&color_background=#111513
+            dist/snake-light.svg?color_snake=#3d6b12&color_dots=#ebedf0,#cfe8a4,#a4d65e,#6fa32b,#3d6b12
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake [skip ci]
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
