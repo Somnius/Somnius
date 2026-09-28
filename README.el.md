@@ -105,10 +105,9 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 Τα δικά σου μοντέλα από το LM Studio (ή όποιο συμβατό endpoint) μέσα στο Claude Code, στο τερματικό ή σε fork του VS Code.
 </td>
 <td width="50%" valign="top">
-<a href="https://lefteros.com/apps/moto-x-miflash/"><img src="assets/cards/miflash-for-mac.webp" alt="MiFlash for Mac"></a>
-<b><a href="https://github.com/Somnius/MiFlash-for-Mac">MiFlash for Mac</a></b> <img src="https://img.shields.io/github/stars/Somnius/MiFlash-for-Mac?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
-Flashing κινητών Xiaomi από Mac. Χρόνια μετά, ακόμη το repo μου με τα περισσότερα αστέρια.<br>
-<a href="https://lefteros.com/apps/moto-x-miflash/">Στο lefteros.com →</a>
+<a href="https://github.com/Somnius/kde-plasma-6-backup"><img src="assets/cards/kde-plasma-6-backup.webp" alt="KDE Plasma 6 Backup"></a>
+<b><a href="https://github.com/Somnius/kde-plasma-6-backup">kde-plasma-6-backup</a></b> <img src="https://img.shields.io/github/stars/Somnius/kde-plasma-6-backup?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
+Αντίγραφο ασφαλείας και επαναφορά για όλο το KDE Plasma 6: ρυθμίσεις, θέματα, πάνελ και προτιμήσεις χρήστη.
 </td>
 </tr>
 <tr>
@@ -132,7 +131,7 @@ Flashing κινητών Xiaomi από Mac. Χρόνια μετά, ακόμη τ�
 
 | Repo | Τι κάνει |
 |---|---|
-| [kde-plasma-6-backup](https://github.com/Somnius/kde-plasma-6-backup) | Αντίγραφο ασφαλείας και επαναφορά για KDE Plasma 6 |
+| [MiFlash-for-Mac](https://github.com/Somnius/MiFlash-for-Mac) | Flashing κινητών Xiaomi από Mac, ακόμη το repo μου με τα περισσότερα αστέρια ([στο lefteros.com](https://lefteros.com/apps/moto-x-miflash/)) |
 | [ngrok-http-1234](https://github.com/Somnius/ngrok-http-1234) | Tunnel ngrok προς τοπικό server μοντέλων, με αυτόματη ενημέρωση των ρυθμίσεων του editor |
 | [tg-mail-mini-app](https://github.com/Somnius/tg-mail-mini-app) | Πλήρες πρόγραμμα email ως mini app του Telegram |
 | [send-html-javascript-to-telegram-bot](https://github.com/Somnius/send-html-javascript-to-telegram-bot) | Φόρμα ιστοσελίδας προς ομάδα Telegram μέσω Bot API |

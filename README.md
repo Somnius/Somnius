@@ -105,10 +105,9 @@ Offline dictation for Arch + Hyprland and Fedora KDE on Wayland, built on whispe
 Run your own LM Studio models (or any compatible endpoint) inside Claude Code, in the terminal or in a VS Code fork. Pick a model, set it up, launch.
 </td>
 <td width="50%" valign="top">
-<a href="https://lefteros.com/en/apps/moto-x-miflash/"><img src="assets/cards/miflash-for-mac.webp" alt="MiFlash for Mac"></a>
-<b><a href="https://github.com/Somnius/MiFlash-for-Mac">MiFlash for Mac</a></b> <img src="https://img.shields.io/github/stars/Somnius/MiFlash-for-Mac?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
-Flash Xiaomi phones from a Mac. Still my most-starred repo, years later.<br>
-<a href="https://lefteros.com/en/apps/moto-x-miflash/">On lefteros.com →</a>
+<a href="https://github.com/Somnius/kde-plasma-6-backup"><img src="assets/cards/kde-plasma-6-backup.webp" alt="KDE Plasma 6 Backup"></a>
+<b><a href="https://github.com/Somnius/kde-plasma-6-backup">kde-plasma-6-backup</a></b> <img src="https://img.shields.io/github/stars/Somnius/kde-plasma-6-backup?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
+Back up and restore a whole KDE Plasma 6 desktop: settings, themes, panels and user preferences.
 </td>
 </tr>
 <tr>
@@ -132,7 +131,7 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 
 | Repo | What it does |
 |---|---|
-| [kde-plasma-6-backup](https://github.com/Somnius/kde-plasma-6-backup) | Back up and restore a KDE Plasma 6 desktop |
+| [MiFlash-for-Mac](https://github.com/Somnius/MiFlash-for-Mac) | Flash Xiaomi phones from a Mac, still my most-starred repo ([on lefteros.com](https://lefteros.com/en/apps/moto-x-miflash/)) |
 | [ngrok-http-1234](https://github.com/Somnius/ngrok-http-1234) | An ngrok tunnel to a local model server, with editor settings updated automatically |
 | [tg-mail-mini-app](https://github.com/Somnius/tg-mail-mini-app) | A full email client as a Telegram mini app |
 | [send-html-javascript-to-telegram-bot](https://github.com/Somnius/send-html-javascript-to-telegram-bot) | Send a web form to a Telegram group through the Bot API |
