@@ -12,13 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=Somnius&style=for-the-badge&color=c2f66d&label=VISITORS" alt="Επισκέπτες">
 </p>
 
-## 👋 Γεια, είμαι ο Λευτέρης
+## Γεια, είμαι ο Λευτέρης
 
 Ένας φίλος μου έβαλε **Red Hat** στον υπολογιστή το 1997 και από τότε δεν σταμάτησα να σκαλίζω. Τη μέρα κρατάω όρθιους τους servers και το ERP επιχειρήσεων· τον υπόλοιπο χρόνο φτιάχνω πράγματα με ό,τι καινούργιο βγαίνει: τελευταία, AI που τρέχει στο δικό σου μηχάνημα και plugins για το [Omarchy](https://omarchy.org). Στα φόρουμ και σχεδόν παντού αλλού γράφω ως **SomniusX**.
 
 Ό,τι φτιάχνω, γράφω και έχω δουλέψει βρίσκεται στο **[lefteros_ · lefteros.com](https://lefteros.com/)**: οι [δημιουργίες](https://lefteros.com/apps/), οι [οδηγοί και τα άρθρα](https://lefteros.com/blog/), [όλη η ιστορία](https://lefteros.com/about/) και [πού αλλού θα με βρεις](https://lefteros.com/presence/). Εδώ είναι η σύντομη εκδοχή.
 
-## 🛠️ Γλώσσες και εργαλεία
+## Γλώσσες και εργαλεία
 
 <p align="center">
   <a href="https://lefteros.com/about/"><img src="https://skillicons.dev/icons?i=linux,arch,nix,windows,apple,docker,bash,git,githubactions,vscode&perline=10" alt="Συστήματα και εργαλεία"></a><br>
@@ -27,14 +27,14 @@
 
 <p align="center"><sub>Επίσης: Proxmox · ESXi · KVM · MikroTik · Synology · Microsoft 365 · MS SQL · Semantic · Cubit · Soft1 · Singular / Epsilon · whisper.cpp · llama.cpp · Ollama · ChromaDB · MCP</sub></p>
 
-## ⭐ Ναυαρχίδα: ShadowRealms AI
+## Ναυαρχίδα: ShadowRealms AI
 
 <a href="https://lefteros.com/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai.webp" alt="ShadowRealms AI" width="100%"></a>
 
 **[ShadowRealms AI](https://github.com/Somnius/shadowrealms-ai)**: πλατφόρμα επιτραπέζιου RPG όπου τον ρόλο του αφηγητή τον παίζει ένα τοπικό LLM. Θυμάται την καμπάνια σου με μνήμη RAG στην ChromaDB, τρέχει σε Docker με Flask και React, και έχει άδεια MIT. Είναι το μεγαλύτερο έργο μου.
 <br>[![Stars](https://img.shields.io/github/stars/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/stargazers) · **[Η ιστορία του στο lefteros.com →](https://lefteros.com/apps/shadowrealms-ai/)**
 
-## 🧩 Plugins για το Omarchy
+## Plugins για το Omarchy
 
 Το Omarchy είναι το στήσιμο Arch + Hyprland που δοκιμάζουν όλοι αυτή τη στιγμή. Φτιάχνω plugins για την μπάρα του και έχω ανοίξει [pull request](https://github.com/basecamp/omarchy/pull/4230) για υποστήριξη Libreboot / Coreboot.
 
@@ -82,7 +82,7 @@ Slack, Discord, Telegram και WhatsApp Web σε δικά τους παράθυ
 </tr>
 </table>
 
-## 🧰 Εργαλεία και τοπική AI
+## Εργαλεία και τοπική AI
 
 <table>
 <tr>
@@ -127,7 +127,7 @@ Flashing κινητών Xiaomi από Mac. Χρόνια μετά, ακόμη τ�
 </table>
 
 <details>
-<summary><b>📦 Περισσότερα δημόσια repos από τα χρόνια που πέρασαν</b></summary>
+<summary><b>Περισσότερα δημόσια repos από τα χρόνια που πέρασαν</b></summary>
 <br>
 
 | Repo | Τι κάνει |
@@ -144,36 +144,36 @@ Flashing κινητών Xiaomi από Mac. Χρόνια μετά, ακόμη τ�
 
 </details>
 
-> 🔒 **Υπάρχουν κι άλλα πίσω από την κουρτίνα.** Πολλά από τα repos μου είναι ιδιωτικά: προσωπικά έργα, δουλειές για πελάτες και επαγγελματικά εργαλεία (γέφυρες ERP, ροές δεδομένων λιανικής, scripts υποδομών). Τα δημόσια είναι η κορυφή του παγόβουνου· τα υπόλοιπα τα λέει το [lefteros.com](https://lefteros.com/apps/).
+> **Υπάρχουν κι άλλα πίσω από την κουρτίνα.** Πολλά από τα repos μου είναι ιδιωτικά: προσωπικά έργα, δουλειές για πελάτες και επαγγελματικά εργαλεία (γέφυρες ERP, ροές δεδομένων λιανικής, scripts υποδομών). Τα δημόσια είναι η κορυφή του παγόβουνου· τα υπόλοιπα τα λέει το [lefteros.com](https://lefteros.com/apps/).
 
-## 🧭 Τι κάνω
+## Τι κάνω
 
 <table>
 <tr>
-<td width="50%" valign="top"><b>🏢 ERP και επιχειρησιακά συστήματα</b><br>Είκοσι χρόνια σε ERP λιανικής, logistics και εμπορίου: Semantic, Cubit, Singular / Epsilon, Soft1. Συγκεντρώνω τα δεδομένα και στήνω τις γέφυρες και τις αναφορές που τα ελέγχουν.</td>
-<td width="50%" valign="top"><b>🖥️ Υποδομές και διακομιστές</b><br>Windows και Linux servers, Proxmox, ESXi και KVM, NAS, Microsoft 365, backups και σχέδια ανάκαμψης. Γραφεία που μεταφέρθηκαν στο cloud και έμειναν όρθια.</td>
+<td width="50%" valign="top"><b>ERP και επιχειρησιακά συστήματα</b><br>Είκοσι χρόνια σε ERP λιανικής, logistics και εμπορίου: Semantic, Cubit, Singular / Epsilon, Soft1. Συγκεντρώνω τα δεδομένα και στήνω τις γέφυρες και τις αναφορές που τα ελέγχουν.</td>
+<td width="50%" valign="top"><b>Υποδομές και διακομιστές</b><br>Windows και Linux servers, Proxmox, ESXi και KVM, NAS, Microsoft 365, backups και σχέδια ανάκαμψης. Γραφεία που μεταφέρθηκαν στο cloud και έμειναν όρθια.</td>
 </tr>
 <tr>
-<td valign="top"><b>🐧 Linux, μέχρι το firmware</b><br>Από το Red Hat του 1997 μέχρι <a href="https://lefteros.com/blog/linux-user-6006/">Libreboot σε ThinkPad</a>, <a href="https://lefteros.com/blog/linux-user-6339/">declarative NixOS</a> και εργαλεία για το Omarchy.</td>
-<td valign="top"><b>🧠 Τοπική AI και φωνή</b><br>Μοντέλα που τρέχουν στο δικό σου μηχάνημα: αφηγητής RPG με μνήμη RAG, απομαγνητοφώνηση συσκέψεων χωρίς cloud, υπαγόρευση χωρίς σύνδεση.</td>
+<td valign="top"><b>Linux, μέχρι το firmware</b><br>Από το Red Hat του 1997 μέχρι <a href="https://lefteros.com/blog/linux-user-6006/">Libreboot σε ThinkPad</a>, <a href="https://lefteros.com/blog/linux-user-6339/">declarative NixOS</a> και εργαλεία για το Omarchy.</td>
+<td valign="top"><b>Τοπική AI και φωνή</b><br>Μοντέλα που τρέχουν στο δικό σου μηχάνημα: αφηγητής RPG με μνήμη RAG, απομαγνητοφώνηση συσκέψεων χωρίς cloud, υπαγόρευση χωρίς σύνδεση.</td>
 </tr>
 <tr>
-<td valign="top"><b>🎮 Servers υπό πίεση</b><br>Με τη RFS Dev Team κρατήσαμε όρθιο ένα event με <a href="https://lefteros.com/blog/gameathlon-athens-2013/">πάνω από 8.000 ταυτόχρονους παίκτες</a>.</td>
-<td valign="top"><b>🇬🇷 Ελληνικά σε κάθε οθόνη</b><br>Πάνω από 37.200 αλλαγές στη <a href="https://lefteros.com/apps/miui-v5-greek-translation/">μετάφραση της MIUI</a>, κείμενα για την OnePlus, Call Recorder, tTorrent, ελληνοποιήσεις για Mac.</td>
+<td valign="top"><b>Servers υπό πίεση</b><br>Με τη RFS Dev Team κρατήσαμε όρθιο ένα event με <a href="https://lefteros.com/blog/gameathlon-athens-2013/">πάνω από 8.000 ταυτόχρονους παίκτες</a>.</td>
+<td valign="top"><b>Ελληνικά σε κάθε οθόνη</b><br>Πάνω από 37.200 αλλαγές στη <a href="https://lefteros.com/apps/miui-v5-greek-translation/">μετάφραση της MIUI</a>, κείμενα για την OnePlus, Call Recorder, tTorrent, ελληνοποιήσεις για Mac.</td>
 </tr>
 </table>
 
-## ✨ Λίγα απρόσμενα
+## Λίγα απρόσμενα
 
-- 🐧 Ένας φίλος μού έδειξε το **Red Hat το 1997**. Έναν μήνα μετά το εγκατέστησα μόνος μου, με κατατμήσεις και όλα, και δεν γύρισα ποτέ πίσω.
-- 🎮 Σε ένα event μαζικής σύνδεσης ο Minecraft server μας έφτασε τους **8.000+ ταυτόχρονους παίκτες**. Άντεξε με δύο Xeon, **64 GB RAM ως δίσκο** και πολλά νεύρα. Το διηγήθηκα και στο HAEC.
-- 🔧 Το **πρώτο αυτόνομο WinBox για Mac** μού χάρισε **άδεια Level 5 από τη MikroTik**.
-- 🏛️ Ο χάρτης της **Αρχαίας Ελλάδας σε κλίμακα 1/10 στο Minecraft** [έφτασε στο κεντρικό δελτίο του ΣΚΑΪ](https://lefteros.com/blog/ancient-greece-minecraft-map-skai-2016/) το 2016.
-- 🍎 Χρόνια συντονιστής σε φόρουμ Hackintosh, και από το 2007 ως το 2014 το [HellasProject](https://lefteros.com/presence/).
-- 💻 Σήμερα περνάω **Libreboot σε ThinkPad** για πλάκα, και έκανα το κάλεσμα για την πρώτη συνάντηση [**Omarchy Greece**](https://lefteros.com/blog/linux-user-6390/).
+- Ένας φίλος μού έδειξε το **Red Hat το 1997**. Έναν μήνα μετά το εγκατέστησα μόνος μου, με κατατμήσεις και όλα, και δεν γύρισα ποτέ πίσω.
+- Σε ένα event μαζικής σύνδεσης ο Minecraft server μας έφτασε τους **8.000+ ταυτόχρονους παίκτες**. Άντεξε με δύο Xeon, **64 GB RAM ως δίσκο** και πολλά νεύρα. Το διηγήθηκα και στο HAEC.
+- Το **πρώτο αυτόνομο WinBox για Mac** μού χάρισε **άδεια Level 5 από τη MikroTik**.
+- Ο χάρτης της **Αρχαίας Ελλάδας σε κλίμακα 1/10 στο Minecraft** [έφτασε στο κεντρικό δελτίο του ΣΚΑΪ](https://lefteros.com/blog/ancient-greece-minecraft-map-skai-2016/) το 2016.
+- Χρόνια συντονιστής σε φόρουμ Hackintosh, και από το 2007 ως το 2014 το [HellasProject](https://lefteros.com/presence/).
+- Σήμερα περνάω **Libreboot σε ThinkPad** για πλάκα, και έκανα το κάλεσμα για την πρώτη συνάντηση [**Omarchy Greece**](https://lefteros.com/blog/linux-user-6390/).
 
 <details>
-<summary><b>🗺️ Είκοσι επτά χρόνια, σε μία κύλιση</b></summary>
+<summary><b>Είκοσι επτά χρόνια, σε μία κύλιση</b></summary>
 <br>
 
 | Πότε | Τι |
@@ -193,7 +193,7 @@ Flashing κινητών Xiaomi από Mac. Χρόνια μετά, ακόμη τ�
 
 </details>
 
-## 📝 Τελευταία στο lefteros.com
+## Τελευταία στο lefteros.com
 
 <!-- POSTS:START -->
 - [Windows VM για Omarchy: τα Windows στην μπάρα](https://lefteros.com/blog/windows-vm-for-omarchy/) · <sub>27 Σεπ 2026</sub>
@@ -205,7 +205,7 @@ Flashing κινητών Xiaomi από Mac. Χρόνια μετά, ακόμη τ�
 
 <sub>Η λίστα ενημερώνεται μόνη της κάθε μέρα από το [feed του lefteros.com](https://lefteros.com/rss.xml). **[Όλα τα άρθρα →](https://lefteros.com/blog/)**</sub>
 
-## 📊 Στο GitHub
+## Στο GitHub
 
 <p align="center">
   <img src="assets/stats.svg" alt="Στατιστικά GitHub για τον Somnius" width="100%">
@@ -217,7 +217,7 @@ Flashing κινητών Xiaomi από Mac. Χρόνια μετά, ακόμη τ�
   <img alt="Ένα φιδάκι τρώει το γράφημα συνεισφορών μου" src="https://raw.githubusercontent.com/Somnius/Somnius/output/snake-dark.svg" width="100%">
 </picture>
 
-## 🌐 Ας τα πούμε
+## Ας τα πούμε
 
 <p align="center">
   <a href="https://lefteros.com/"><b>lefteros_ · lefteros.com</b></a> ·
@@ -227,4 +227,4 @@ Flashing κινητών Xiaomi από Mac. Χρόνια μετά, ακόμη τ�
   <a href="https://lefteros.com/rss.xml">RSS</a>
 </p>
 
-<p align="center"><sub>Φτιαγμένο στην Ελλάδα 🇬🇷, στο ίδιο ύφος με το <a href="https://lefteros.com/">lefteros.com</a>.</sub></p>
+<p align="center"><sub>Φτιαγμένο στην Ελλάδα, στο ίδιο ύφος με το <a href="https://lefteros.com/">lefteros.com</a>.</sub></p>

@@ -12,13 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=Somnius&style=for-the-badge&color=c2f66d&label=VISITORS" alt="Profile visitors">
 </p>
 
-## 👋 Hi, I'm Lefteris
+## Hi, I'm Lefteris
 
 A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. By day I keep companies' servers and ERP running; the rest of the time I build things with whatever is new. Lately that means AI that runs on your own machine and plugins for [Omarchy](https://omarchy.org). On forums and almost everywhere else I'm **SomniusX**.
 
 Everything I make, write and have worked on lives at **[lefteros_ · lefteros.com](https://lefteros.com/en/)**: the [projects](https://lefteros.com/en/apps/), the [guides and posts](https://lefteros.com/en/blog/), [the full story](https://lefteros.com/en/about/) and [where else I show up](https://lefteros.com/en/presence/). This page is the short version.
 
-## 🛠️ Languages and tools
+## Languages and tools
 
 <p align="center">
   <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=linux,arch,nix,windows,apple,docker,bash,git,githubactions,vscode&perline=10" alt="Systems and tools"></a><br>
@@ -27,14 +27,14 @@ Everything I make, write and have worked on lives at **[lefteros_ · lefteros.co
 
 <p align="center"><sub>Also: Proxmox · ESXi · KVM · MikroTik · Synology · Microsoft 365 · MS SQL · Semantic · Cubit · Soft1 · Singular / Epsilon · whisper.cpp · llama.cpp · Ollama · ChromaDB · MCP</sub></p>
 
-## ⭐ Flagship: ShadowRealms AI
+## Flagship: ShadowRealms AI
 
 <a href="https://lefteros.com/en/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai.webp" alt="ShadowRealms AI" width="100%"></a>
 
 **[ShadowRealms AI](https://github.com/Somnius/shadowrealms-ai)**: a tabletop RPG platform where the dungeon master is a local LLM. The narrator remembers your campaign through RAG memory in ChromaDB, runs on Docker with Flask and React, and is MIT-licensed. It's my biggest project.
 <br>[![Stars](https://img.shields.io/github/stars/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/stargazers) · **[Read the story on lefteros.com →](https://lefteros.com/en/apps/shadowrealms-ai/)**
 
-## 🧩 Omarchy plugins
+## Omarchy plugins
 
 Omarchy is the Arch + Hyprland setup everyone's trying right now. I build plugins for its bar, and I opened [a pull request upstream](https://github.com/basecamp/omarchy/pull/4230) for Libreboot / Coreboot support.
 
@@ -82,7 +82,7 @@ The Serpantinum shell's widgets brought to Omarchy: <a href="https://github.com/
 </tr>
 </table>
 
-## 🧰 Tools and local AI
+## Tools and local AI
 
 <table>
 <tr>
@@ -127,7 +127,7 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 </table>
 
 <details>
-<summary><b>📦 More public repos from over the years</b></summary>
+<summary><b>More public repos from over the years</b></summary>
 <br>
 
 | Repo | What it does |
@@ -144,36 +144,36 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 
 </details>
 
-> 🔒 **There's more behind the curtain.** Many of my repos are private: personal projects, client work and business tools (ERP bridges, retail data pipelines, infrastructure scripts). The public ones are the tip. [lefteros.com](https://lefteros.com/en/apps/) tells the rest.
+> **There's more behind the curtain.** Many of my repos are private: personal projects, client work and business tools (ERP bridges, retail data pipelines, infrastructure scripts). The public ones are the tip. [lefteros.com](https://lefteros.com/en/apps/) tells the rest.
 
-## 🧭 What I do
+## What I do
 
 <table>
 <tr>
-<td width="50%" valign="top"><b>🏢 ERP and business systems</b><br>Twenty years on retail, logistics and commercial ERP: Semantic, Cubit, Singular / Epsilon, Soft1. I centralise the data and build the bridges and reports that keep it honest.</td>
-<td width="50%" valign="top"><b>🖥️ Infrastructure and servers</b><br>Windows and Linux servers, Proxmox, ESXi and KVM, NAS, Microsoft 365, backups and disaster recovery. I've moved offices to the cloud, and they stayed up.</td>
+<td width="50%" valign="top"><b>ERP and business systems</b><br>Twenty years on retail, logistics and commercial ERP: Semantic, Cubit, Singular / Epsilon, Soft1. I centralise the data and build the bridges and reports that keep it honest.</td>
+<td width="50%" valign="top"><b>Infrastructure and servers</b><br>Windows and Linux servers, Proxmox, ESXi and KVM, NAS, Microsoft 365, backups and disaster recovery. I've moved offices to the cloud, and they stayed up.</td>
 </tr>
 <tr>
-<td valign="top"><b>🐧 Linux, down to the firmware</b><br>From Red Hat in 1997 to <a href="https://lefteros.com/blog/linux-user-6006/">Libreboot on ThinkPads</a>, <a href="https://lefteros.com/blog/linux-user-6339/">declarative NixOS</a> and tools for Omarchy.</td>
-<td valign="top"><b>🧠 Local AI and speech</b><br>Models that run on your own machine: an RPG narrator with RAG memory, meeting transcription without the cloud, offline dictation.</td>
+<td valign="top"><b>Linux, down to the firmware</b><br>From Red Hat in 1997 to <a href="https://lefteros.com/blog/linux-user-6006/">Libreboot on ThinkPads</a>, <a href="https://lefteros.com/blog/linux-user-6339/">declarative NixOS</a> and tools for Omarchy.</td>
+<td valign="top"><b>Local AI and speech</b><br>Models that run on your own machine: an RPG narrator with RAG memory, meeting transcription without the cloud, offline dictation.</td>
 </tr>
 <tr>
-<td valign="top"><b>🎮 Servers under pressure</b><br>With the RFS Dev Team I kept an event with <a href="https://lefteros.com/en/blog/gameathlon-athens-2013/">8,000+ simultaneous players</a> online.</td>
-<td valign="top"><b>🇬🇷 Greek on every screen</b><br>37,200+ changes to <a href="https://lefteros.com/en/apps/miui-v5-greek-translation/">the MIUI Greek translation</a>, OnePlus texts, Call Recorder, tTorrent, Mac localisations.</td>
+<td valign="top"><b>Servers under pressure</b><br>With the RFS Dev Team I kept an event with <a href="https://lefteros.com/en/blog/gameathlon-athens-2013/">8,000+ simultaneous players</a> online.</td>
+<td valign="top"><b>Greek on every screen</b><br>37,200+ changes to <a href="https://lefteros.com/en/apps/miui-v5-greek-translation/">the MIUI Greek translation</a>, OnePlus texts, Call Recorder, tTorrent, Mac localisations.</td>
 </tr>
 </table>
 
-## ✨ Fun facts
+## Fun facts
 
-- 🐧 A friend showed me **Red Hat in 1997**. A month later I installed it myself, partitions and all, and never went back.
-- 🎮 During a mass-login event our Minecraft server hit **8,000+ players at once**. It held on two Xeons, **64 GB of RAM used as a disk**, and a lot of nerve. I told the story at HAEC.
-- 🔧 My **first standalone WinBox for Mac** earned me a **Level 5 licence from MikroTik**.
-- 🏛️ A 1:10 map of **Ancient Greece in Minecraft** that we built [made the SKAI evening news](https://lefteros.com/en/blog/ancient-greece-minecraft-map-skai-2016/) in 2016.
-- 🍎 I moderated Hackintosh forums for years and ran [HellasProject](https://lefteros.com/en/presence/) from 2007 to 2014.
-- 💻 These days I flash **Libreboot onto ThinkPads** for fun, and I called the first **Omarchy Greece** meetup.
+- A friend showed me **Red Hat in 1997**. A month later I installed it myself, partitions and all, and never went back.
+- During a mass-login event our Minecraft server hit **8,000+ players at once**. It held on two Xeons, **64 GB of RAM used as a disk**, and a lot of nerve. I told the story at HAEC.
+- My **first standalone WinBox for Mac** earned me a **Level 5 licence from MikroTik**.
+- A 1:10 map of **Ancient Greece in Minecraft** that we built [made the SKAI evening news](https://lefteros.com/en/blog/ancient-greece-minecraft-map-skai-2016/) in 2016.
+- I moderated Hackintosh forums for years and ran [HellasProject](https://lefteros.com/en/presence/) from 2007 to 2014.
+- These days I flash **Libreboot onto ThinkPads** for fun, and I called the first **Omarchy Greece** meetup.
 
 <details>
-<summary><b>🗺️ Twenty-seven years, in one scroll</b></summary>
+<summary><b>Twenty-seven years, in one scroll</b></summary>
 <br>
 
 | When | What |
@@ -193,7 +193,7 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 
 </details>
 
-## 📝 Latest on lefteros.com
+## Latest on lefteros.com
 
 <!-- POSTS:START -->
 - [Windows VM for Omarchy: Windows on the bar](https://lefteros.com/en/blog/windows-vm-for-omarchy/) · <sub>27 Sept 2026</sub>
@@ -205,7 +205,7 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 
 <sub>The list updates itself every day from the [lefteros.com feed](https://lefteros.com/en/rss.xml). **[All posts →](https://lefteros.com/en/blog/)**</sub>
 
-## 📊 On GitHub
+## On GitHub
 
 <p align="center">
   <img src="assets/stats.svg" alt="GitHub stats for Somnius" width="100%">
@@ -217,7 +217,7 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Somnius/Somnius/output/snake-dark.svg" width="100%">
 </picture>
 
-## 🌐 Let's connect
+## Let's connect
 
 <p align="center">
   <a href="https://lefteros.com/en/"><b>lefteros_ · lefteros.com</b></a> ·
@@ -227,4 +227,4 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
   <a href="https://lefteros.com/en/rss.xml">RSS</a>
 </p>
 
-<p align="center"><sub>Made in Greece 🇬🇷 in the same style as <a href="https://lefteros.com/en/">lefteros.com</a>.</sub></p>
+<p align="center"><sub>Made in Greece, in the same style as <a href="https://lefteros.com/en/">lefteros.com</a>.</sub></p>
