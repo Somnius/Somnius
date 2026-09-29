@@ -18,6 +18,24 @@ A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. B
 
 Everything I make, write and have worked on lives at **[lefteros_ · lefteros.com](https://lefteros.com/en/)**: the [projects](https://lefteros.com/en/apps/), the [guides and posts](https://lefteros.com/en/blog/), [the full story](https://lefteros.com/en/about/) and [where else I show up](https://lefteros.com/en/presence/). This page is the short version.
 
+## Latest project: CrossInk in Greek
+
+<a href="https://lefteros.com/en/apps/crossink-greek/"><img src="assets/cards/crossink-greek.webp" alt="CrossInk in Greek" width="100%"></a>
+
+**CrossInk** is open firmware (MIT) for the small **Xteink** e-ink readers. Until now it didn't speak Greek: Greek books came out as ◆ boxes, and neither the menu nor the hyphenation knew the language. I built Greek support in under 24 hours, and it's out as a test build for the **Xteink X4 Pro**.
+
+- **Greek in the reading fonts.** Bitter and Lexend Deca have no Greek, so Greek subsets of Noto Serif and Noto Sans now sit next to them in every style.
+- **Greek hyphenation.** With justified text, words break where they should: κα-λη-μέ-ρα, ηλε-κτρο-νι-κός, προ-ϋ-πό-θε-ση.
+- **A Greek menu.** All 843 interface strings are translated.
+- **Greek titles everywhere.** The home screen, descriptions and clippings show Greek titles and authors properly, even with an English menu.
+- **Room to spare.** With Vietnamese and Arabic taken out, the Greek build is still about 57 KB smaller than the official 1.6.0.
+
+<p align="center"><img src="assets/crossink-before-after.webp" alt="Cavafy's Ithaka in the Bitter font: the official 1.6.0 shows boxes, the Greek build shows the text" width="80%"><br>
+<sub>Cavafy's <i>Ithaka</i> in Bitter: on the left the official 1.6.0, on the right the Greek build.</sub></p>
+
+**[The app page on lefteros.com →](https://lefteros.com/en/apps/crossink-greek/)** · **[How it was built, step by step →](https://lefteros.com/en/blog/crossink-greek/)**
+<br>[Download v1.6.0-greek2 for the X4 Pro](https://github.com/Somnius/CrossInk/releases) · [The proposal to CrossInk (#789)](https://github.com/uxjulia/CrossInk/discussions/789) · <sub>beta</sub>
+
 ## Languages and tools
 
 <p align="center">
@@ -178,7 +196,7 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 
 | When | What |
 |---|---|
-| **2025 → now** | EDP, IT, ICT and project manager · ShadowRealms AI · RecMeets · Libreboot, NixOS and Omarchy |
+| **2025 → now** | EDP, IT, ICT and project manager · CrossInk in Greek · ShadowRealms AI · RecMeets · Libreboot, NixOS and Omarchy |
 | **2023 – 2025** | IT manager and ERP consultant, MPALASKAS YSS SA |
 | **2023** | DevOps, SaaS / PaaS, EDP / TSG, CoreiT Greece |
 | **2019 – 2023** | IT manager and ERP consultant, ALEXANDROS SA |

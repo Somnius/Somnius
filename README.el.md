@@ -18,6 +18,24 @@
 
 Ό,τι φτιάχνω, γράφω και έχω δουλέψει βρίσκεται στο **[lefteros_ · lefteros.com](https://lefteros.com/)**: οι [δημιουργίες](https://lefteros.com/apps/), οι [οδηγοί και τα άρθρα](https://lefteros.com/blog/), [όλη η ιστορία](https://lefteros.com/about/) και [πού αλλού θα με βρεις](https://lefteros.com/presence/). Εδώ είναι η σύντομη εκδοχή.
 
+## Τελευταίο έργο: CrossInk στα ελληνικά
+
+<a href="https://lefteros.com/apps/crossink-greek/"><img src="assets/cards/crossink-greek.webp" alt="CrossInk στα ελληνικά" width="100%"></a>
+
+Το **CrossInk** είναι ανοιχτό firmware (MIT) για τις μικρές συσκευές ανάγνωσης e-ink της **Xteink**. Μέχρι τώρα δεν «μιλούσε» ελληνικά: τα ελληνικά βιβλία έβγαιναν ως ◆ κουτάκια, και ούτε το μενού ούτε ο συλλαβισμός ήξεραν τη γλώσσα. Έφτιαξα την ελληνική υποστήριξη σε λιγότερο από 24 ώρες, και κυκλοφορεί ως δοκιμαστική έκδοση για το **Xteink X4 Pro**.
+
+- **Ελληνικά στις γραμματοσειρές ανάγνωσης.** Η Bitter και η Lexend Deca δεν έχουν ελληνικά, οπότε δίπλα τους μπαίνουν ελληνικά υποσύνολα της Noto Serif και της Noto Sans, σε όλα τα στυλ.
+- **Ελληνικός συλλαβισμός.** Με πλήρη στοίχιση οι λέξεις κόβονται σωστά: κα-λη-μέ-ρα, ηλε-κτρο-νι-κός, προ-ϋ-πό-θε-ση.
+- **Ελληνικό μενού.** Μεταφρασμένα και τα 843 κείμενα της διεπαφής.
+- **Ελληνικοί τίτλοι παντού.** Η αρχική οθόνη, οι περιγραφές και οι σημειώσεις δείχνουν σωστά ελληνικούς τίτλους και συγγραφείς, ακόμη και με αγγλικό μενού.
+- **Χωράει με άνεση.** Χωρίς τα βιετναμέζικα και τα αραβικά, η ελληνική έκδοση βγαίνει περίπου 57 KB μικρότερη από το επίσημο 1.6.0.
+
+<p align="center"><img src="assets/crossink-before-after.webp" alt="Η Ιθάκη του Καβάφη στη Bitter: στο επίσημο 1.6.0 κουτάκια, στην ελληνική έκδοση το κείμενο" width="80%"><br>
+<sub>Η <i>Ιθάκη</i> του Καβάφη στη Bitter: αριστερά το επίσημο 1.6.0, δεξιά η ελληνική έκδοση.</sub></p>
+
+**[Η σελίδα της εφαρμογής στο lefteros.com →](https://lefteros.com/apps/crossink-greek/)** · **[Πώς φτιάχτηκε, βήμα βήμα →](https://lefteros.com/blog/crossink-greek/)**
+<br>[Κατέβασε το v1.6.0-greek2 για το X4 Pro](https://github.com/Somnius/CrossInk/releases) · [Η πρόταση στο CrossInk (#789)](https://github.com/uxjulia/CrossInk/discussions/789) · <sub>beta</sub>
+
 ## Γλώσσες και εργαλεία
 
 <p align="center">
@@ -178,7 +196,7 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 
 | Πότε | Τι |
 |---|---|
-| **2025 → σήμερα** | EDP, IT, ICT και υπεύθυνος έργων · ShadowRealms AI · RecMeets · Libreboot, NixOS και Omarchy |
+| **2025 → σήμερα** | EDP, IT, ICT και υπεύθυνος έργων · CrossInk στα ελληνικά · ShadowRealms AI · RecMeets · Libreboot, NixOS και Omarchy |
 | **2023 – 2025** | IT manager και σύμβουλος ERP, Μπαλάσκας ΥSS Α.Ε. |
 | **2023** | DevOps, SaaS / PaaS, EDP / TSG, CoreiT Greece |
 | **2019 – 2023** | IT manager και σύμβουλος ERP, ΑΛΕΞΑΝΔΡΟΣ Α.Ε. |
