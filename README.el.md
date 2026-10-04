@@ -47,10 +47,34 @@
 
 ## Ναυαρχίδα: ShadowRealms AI
 
-<a href="https://lefteros.com/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai.webp" alt="ShadowRealms AI" width="100%"></a>
+<a href="https://lefteros.com/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai.webp" alt="ShadowRealms AI 0.10.0: AI Storyteller για World of Darkness, στον δικό σου server" width="100%"></a>
 
-**[ShadowRealms AI](https://github.com/Somnius/shadowrealms-ai)**: πλατφόρμα επιτραπέζιου RPG όπου τον ρόλο του αφηγητή τον παίζει ένα τοπικό LLM. Θυμάται την καμπάνια σου με μνήμη RAG στην ChromaDB, τρέχει σε Docker με Flask και React, και έχει άδεια MIT. Είναι το μεγαλύτερο έργο μου.
-<br>[![Stars](https://img.shields.io/github/stars/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/stargazers) · **[Η ιστορία του στο lefteros.com →](https://lefteros.com/apps/shadowrealms-ai/)**
+Το **[ShadowRealms AI](https://github.com/Somnius/shadowrealms-ai)** είναι ένας AI Storyteller για χρονικά World of Darkness, που τον φιλοξενείς μόνος σου. Τρέχει σε Docker, οι ιστορίες βγαίνουν από τοπικά μοντέλα μέσω LM Studio και Ollama, και κάθε χρονικό παίζεται με τους κανόνες **Classic** (oWoD Revised: Vampire, Werewolf, Mage) ή **V5**, στα αγγλικά ή στα ελληνικά. Είναι το μεγαλύτερο έργο μου.
+
+<p align="center"><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_el_1080p60.mp4"><img src="assets/shadowrealms/trailer-el.webp" alt="Δες το trailer του ShadowRealms AI (2 λεπτά)" width="100%"></a><br>
+<sub><b><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_el_1080p60.mp4">Το trailer στα ελληνικά</a></b> · <b><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_en_1080p60.mp4">Trailer in English</a></b> · 2 λεπτά, γυρισμένο σε καινούργια εγκατάσταση: αληθινές απαντήσεις του Storyteller από τοπικό μοντέλο, αληθινές ζαριές, πρωτότυπη μουσική.</sub></p>
+
+- **Δύο συστήματα κανόνων.** Τα ζάρια του Classic ακολουθούν το Revised (δυσκολίες, botch, ειδικότητες, Willpower). Το V5 φέρνει ζάρια Hunger, messy criticals, bestial failures και Rouse checks.
+- **Ζάρια από το φύλλο σου.** Όταν ο Storyteller ζητά ζαριά, ο server υπολογίζει τα ζάρια από το φύλλο χαρακτήρα σου, και κάθε κάρτα ζαριάς στη συζήτηση είναι αληθινή ζαριά του server.
+- **Παιχνίδι σαν στο Discord.** Δωμάτια μέσα και έξω από τον χαρακτήρα, ζωντανές ενημερώσεις, εντολές με κάθετο και δημιουργία χαρακτήρα για κάθε έκδοση.
+- **AI σε ρόλους.** Storyteller στα αγγλικά και στα ελληνικά (Llama-Krikri για τα ελληνικά), μακροπρόθεσμη μνήμη και αναζήτηση στα βιβλία κανόνων με bge-m3 στην ChromaDB, και ο ταξινομητής Laya που επιβλέπει τα δωμάτια OOC.
+- **Γοτθική αισθητική.** 97 πρωτότυπα σύμβολα και σφραγίδες σε SVG, κινούμενα ζάρια, ομίχλη, φως κεριού και αίμα σε κάθε botch.
+- **Νέα μηχανή στην 0.10.0.** Vite στη θέση του Create React App (build σε περίπου ένα δευτερόλεπτο, το npm audit από 69 ευρήματα σε 0), React Router 7, Python 3.12, κλειδωμένη έκδοση ChromaDB και καμία προειδοποίηση lint.
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/play-v5.webp" alt="Ένα χρονικό V5 σε εξέλιξη"></a><br><sub>Ένα χρονικό V5 σε εξέλιξη</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/hall.webp" alt="Η αίθουσα των χρονικών"></a><br><sub>Η αίθουσα των χρονικών</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/dice-bestial-failure.webp" alt="Ένα bestial failure"></a><br><sub>Ένα bestial failure</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/character-sheet-v5.webp" alt="Φύλλο χαρακτήρα V5"></a><br><sub>Φύλλο χαρακτήρα V5</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/play-greek.webp" alt="Παιχνίδι στα ελληνικά"></a><br><sub>Παιχνίδι στα ελληνικά</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/showcase-hero.webp" alt="Η προεπισκόπηση του θέματος"></a><br><sub>Η προεπισκόπηση του θέματος</sub></td>
+</tr>
+</table>
+
+[![Stars](https://img.shields.io/github/stars/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/stargazers) [![Release](https://img.shields.io/github/v/release/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/releases/latest) · **[Η ιστορία του στο lefteros.com →](https://lefteros.com/apps/shadowrealms-ai/)**
 
 ## Plugins για το Omarchy
 
@@ -173,7 +197,7 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 </tr>
 <tr>
 <td valign="top"><b>Linux, μέχρι το firmware</b><br>Από το Red Hat του 1997 μέχρι <a href="https://lefteros.com/blog/linux-user-6006/">Libreboot σε ThinkPad</a>, <a href="https://lefteros.com/blog/linux-user-6339/">declarative NixOS</a> και εργαλεία για το Omarchy.</td>
-<td valign="top"><b>Τοπική AI και φωνή</b><br>Μοντέλα που τρέχουν στο δικό σου μηχάνημα: αφηγητής RPG με μνήμη RAG, απομαγνητοφώνηση συσκέψεων χωρίς cloud, υπαγόρευση χωρίς σύνδεση.</td>
+<td valign="top"><b>Τοπική AI και φωνή</b><br>Μοντέλα που τρέχουν στο δικό σου μηχάνημα: AI Storyteller για World of Darkness με μνήμη RAG, απομαγνητοφώνηση συσκέψεων χωρίς cloud, υπαγόρευση χωρίς σύνδεση.</td>
 </tr>
 <tr>
 <td valign="top"><b>Servers υπό πίεση</b><br>Με τη RFS Dev Team κρατήσαμε όρθιο ένα event με <a href="https://lefteros.com/blog/gameathlon-athens-2013/">πάνω από 8.000 ταυτόχρονους παίκτες</a>.</td>

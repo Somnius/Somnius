@@ -47,10 +47,34 @@ Everything I make, write and have worked on lives at **[lefteros_ · lefteros.co
 
 ## Flagship: ShadowRealms AI
 
-<a href="https://lefteros.com/en/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai.webp" alt="ShadowRealms AI" width="100%"></a>
+<a href="https://lefteros.com/en/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai.webp" alt="ShadowRealms AI 0.10.0: a self-hosted AI Storyteller for World of Darkness" width="100%"></a>
 
-**[ShadowRealms AI](https://github.com/Somnius/shadowrealms-ai)**: a tabletop RPG platform where the dungeon master is a local LLM. The narrator remembers your campaign through RAG memory in ChromaDB, runs on Docker with Flask and React, and is MIT-licensed. It's my biggest project.
-<br>[![Stars](https://img.shields.io/github/stars/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/stargazers) · **[Read the story on lefteros.com →](https://lefteros.com/en/apps/shadowrealms-ai/)**
+**[ShadowRealms AI](https://github.com/Somnius/shadowrealms-ai)** is a self-hosted AI Storyteller for World of Darkness chronicles. You run it yourself with Docker, the stories come from local models through LM Studio and Ollama, and every chronicle plays by **Classic** (oWoD Revised: Vampire, Werewolf, Mage) or **V5** rules, in English or Greek. It's my biggest project.
+
+<p align="center"><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_en_1080p60.mp4"><img src="assets/shadowrealms/trailer-en.webp" alt="Watch the ShadowRealms AI trailer (2 minutes)" width="100%"></a><br>
+<sub><b><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_en_1080p60.mp4">Trailer in English</a></b> · <b><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_el_1080p60.mp4">Το trailer στα ελληνικά</a></b> · 2 minutes, recorded on a fresh copy of the app: real Storyteller replies from a local model, real dice rolls, an original score.</sub></p>
+
+- **Two rule sets.** Classic dice follow Revised (difficulties, botches, specialties, Willpower). V5 brings Hunger dice, messy criticals, bestial failures and Rouse checks.
+- **Dice from your sheet.** When the Storyteller calls for a roll, the server works out the pool from your character sheet, and every dice card in the chat is a real server roll.
+- **Discord-style play.** In-character and out-of-character rooms, live updates, slash commands, and a character forge for each edition.
+- **AI in roles.** English and Greek Storytellers (Llama-Krikri for Greek), long-term memory and rule-book search with bge-m3 in ChromaDB, and the Laya classifier moderating the OOC rooms.
+- **A gothic look.** 97 original SVG glyphs and sigils, animated dice, fog, candle glow and blood on a botch.
+- **A new engine in 0.10.0.** Vite instead of Create React App (builds in about a second, npm audit down from 69 findings to 0), React Router 7, Python 3.12, a pinned ChromaDB, and every lint warning fixed.
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/play-v5.webp" alt="A V5 chronicle in play"></a><br><sub>A V5 chronicle in play</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/hall.webp" alt="The chronicle hall"></a><br><sub>The chronicle hall</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/dice-bestial-failure.webp" alt="A bestial failure"></a><br><sub>A bestial failure</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/character-sheet-v5.webp" alt="A V5 character sheet"></a><br><sub>A V5 character sheet</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/play-greek.webp" alt="Playing in Greek"></a><br><sub>Playing in Greek</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Somnius/shadowrealms-ai"><img src="assets/shadowrealms/showcase-hero.webp" alt="The theme preview"></a><br><sub>The theme preview</sub></td>
+</tr>
+</table>
+
+[![Stars](https://img.shields.io/github/stars/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/stargazers) [![Release](https://img.shields.io/github/v/release/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/releases/latest) · **[Read the story on lefteros.com →](https://lefteros.com/en/apps/shadowrealms-ai/)**
 
 ## Omarchy plugins
 
@@ -173,7 +197,7 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 </tr>
 <tr>
 <td valign="top"><b>Linux, down to the firmware</b><br>From Red Hat in 1997 to <a href="https://lefteros.com/blog/linux-user-6006/">Libreboot on ThinkPads</a>, <a href="https://lefteros.com/blog/linux-user-6339/">declarative NixOS</a> and tools for Omarchy.</td>
-<td valign="top"><b>Local AI and speech</b><br>Models that run on your own machine: an RPG narrator with RAG memory, meeting transcription without the cloud, offline dictation.</td>
+<td valign="top"><b>Local AI and speech</b><br>Models that run on your own machine: an AI Storyteller for World of Darkness with RAG memory, meeting transcription without the cloud, offline dictation.</td>
 </tr>
 <tr>
 <td valign="top"><b>Servers under pressure</b><br>With the RFS Dev Team I kept an event with <a href="https://lefteros.com/en/blog/gameathlon-athens-2013/">8,000+ simultaneous players</a> online.</td>
