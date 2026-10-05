@@ -238,11 +238,11 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 ## Τελευταία στο lefteros.com
 
 <!-- POSTS:START -->
+- [ShadowRealms AI 0.10: V5, ελληνικά, νέα θεμέλια και trailer](https://lefteros.com/blog/shadowrealms-ai-0-10/) · <sub>4 Οκτ 2026</sub>
 - [Ένα δικό μου μοντέλο στο Hugging Face: RecMeets' Laya](https://lefteros.com/blog/recmeets-laya-hugging-face/) · <sub>29 Σεπ 2026</sub>
 - [Τα ελληνικά έφτασαν στο CrossInk](https://lefteros.com/blog/crossink-greek/) · <sub>29 Σεπ 2026</sub>
 - [Windows VM για Omarchy: τα Windows στην μπάρα](https://lefteros.com/blog/windows-vm-for-omarchy/) · <sub>27 Σεπ 2026</sub>
 - [Keyboard Layout για Omarchy 1.2.2: τέσσερις διατάξεις και αντίγραφα ασφαλείας](https://lefteros.com/blog/keyboard-layout-omarchy-1-2/) · <sub>26 Σεπ 2026</sub>
-- [Σύντομα: RecMeets](https://lefteros.com/blog/recmeets-soon/) · <sub>26 Σεπ 2026</sub>
 <!-- POSTS:END -->
 
 <sub>Η λίστα ενημερώνεται μόνη της κάθε μέρα από το [feed του lefteros.com](https://lefteros.com/rss.xml). **[Όλα τα άρθρα →](https://lefteros.com/blog/)**</sub>

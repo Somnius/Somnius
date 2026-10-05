@@ -238,11 +238,11 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 ## Latest on lefteros.com
 
 <!-- POSTS:START -->
+- [ShadowRealms AI 0.10: V5, Greek, new foundations and a trailer](https://lefteros.com/en/blog/shadowrealms-ai-0-10/) · <sub>4 Oct 2026</sub>
 - [A model of my own on Hugging Face: RecMeets' Laya](https://lefteros.com/en/blog/recmeets-laya-hugging-face/) · <sub>29 Sept 2026</sub>
 - [Greek has arrived in CrossInk](https://lefteros.com/en/blog/crossink-greek/) · <sub>29 Sept 2026</sub>
 - [Windows VM for Omarchy: Windows on the bar](https://lefteros.com/en/blog/windows-vm-for-omarchy/) · <sub>27 Sept 2026</sub>
 - [Keyboard Layout for Omarchy 1.2.2: four layouts and backups](https://lefteros.com/en/blog/keyboard-layout-omarchy-1-2/) · <sub>26 Sept 2026</sub>
-- [Coming soon: RecMeets](https://lefteros.com/en/blog/recmeets-soon/) · <sub>26 Sept 2026</sub>
 <!-- POSTS:END -->
 
 <sub>The list updates itself every day from the [lefteros.com feed](https://lefteros.com/en/rss.xml). **[All posts →](https://lefteros.com/en/blog/)**</sub>
