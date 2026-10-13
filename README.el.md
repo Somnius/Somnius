@@ -238,11 +238,11 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 ## Τελευταία στο lefteros.com
 
 <!-- POSTS:START -->
-- [RecMeets v0.31.0: τα δύο κανάλια μένουν συγχρονισμένα](https://lefteros.com/blog/recmeets-0-31/) · <sub>11 Οκτ 2026</sub>
-- [Το kitty ακολουθεί πλέον το θέμα στο dwm του Chris Titus](https://lefteros.com/blog/dwm-titus-kitty-theme/) · <sub>11 Οκτ 2026</sub>
-- [Το CrossInk-Indic διαβάζει πλέον βιρμανικά, σε κάθε Xteink](https://lefteros.com/blog/crossink-burmese/) · <sub>10 Οκτ 2026</sub>
-- [Το CrossInk-Indic διαβάζει πλέον 13 ινδικές γλώσσες, σε κάθε Xteink](https://lefteros.com/blog/crossink-indic-13-languages/) · <sub>10 Οκτ 2026</sub>
-- [Τα χίντι έφτασαν στο CrossInk, σε κάθε συσκευή Xteink](https://lefteros.com/blog/crossink-indic/) · <sub>10 Οκτ 2026</sub>
+- [Skills για το dwm-titus: ο βοηθός στα σωστά αρχεία](https://lefteros.com/blog/dwm-titus-agent-skills/) · <sub>13 Οκτ 2026</sub>
+- [Patches για το nema, την εφαρμογή XMPP για Android του Thanos Apollo](https://lefteros.com/blog/nema-patches/) · <sub>13 Οκτ 2026</sub>
+- [Κρυφό Wi-Fi, διατάξεις πληκτρολογίου και ρολόι με δευτερόλεπτα για το dwm του Chris Titus](https://lefteros.com/blog/dwm-titus-wifi-keyboard-clock/) · <sub>13 Οκτ 2026</sub>
+- [Πλήκτρα και υποδείξεις στον επιλογέα emoji του Omarchy](https://lefteros.com/blog/omarchy-emojis-nerd-hotkeys/) · <sub>13 Οκτ 2026</sub>
+- [Keyboard Layout 1.2.5: έτοιμο για το νέο Caps Lock του Omarchy](https://lefteros.com/blog/keyboard-layout-1-2-5/) · <sub>13 Οκτ 2026</sub>
 <!-- POSTS:END -->
 
 <sub>Η λίστα ενημερώνεται μόνη της κάθε μέρα από το [feed του lefteros.com](https://lefteros.com/rss.xml). **[Όλα τα άρθρα →](https://lefteros.com/blog/)**</sub>
