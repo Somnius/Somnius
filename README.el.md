@@ -238,11 +238,11 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 ## Τελευταία στο lefteros.com
 
 <!-- POSTS:START -->
+- [ShadowRealms AI 0.14: χαρακτήρες V5 από τα βιβλία και νέο trailer](https://lefteros.com/blog/shadowrealms-ai-0-14/) · <sub>16 Οκτ 2026</sub>
 - [Skills για το dwm-titus: ο βοηθός στα σωστά αρχεία](https://lefteros.com/blog/dwm-titus-agent-skills/) · <sub>13 Οκτ 2026</sub>
 - [Patches για το nema, την εφαρμογή XMPP για Android του Thanos Apollo](https://lefteros.com/blog/nema-patches/) · <sub>13 Οκτ 2026</sub>
 - [Κρυφό Wi-Fi, διατάξεις πληκτρολογίου και ρολόι με δευτερόλεπτα για το dwm του Chris Titus](https://lefteros.com/blog/dwm-titus-wifi-keyboard-clock/) · <sub>13 Οκτ 2026</sub>
 - [Πλήκτρα και υποδείξεις στον επιλογέα emoji του Omarchy](https://lefteros.com/blog/omarchy-emojis-nerd-hotkeys/) · <sub>13 Οκτ 2026</sub>
-- [Keyboard Layout 1.2.5: έτοιμο για το νέο Caps Lock του Omarchy](https://lefteros.com/blog/keyboard-layout-1-2-5/) · <sub>13 Οκτ 2026</sub>
 <!-- POSTS:END -->
 
 <sub>Η λίστα ενημερώνεται μόνη της κάθε μέρα από το [feed του lefteros.com](https://lefteros.com/rss.xml). **[Όλα τα άρθρα →](https://lefteros.com/blog/)**</sub>
