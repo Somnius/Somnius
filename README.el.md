@@ -238,11 +238,11 @@ TUI για libvirt, QEMU και KVM, με πληκτρολόγιο: πιο ελ�
 ## Τελευταία στο lefteros.com
 
 <!-- POSTS:START -->
+- [ShadowRealms AI 0.23 έως 0.28: το χρονικό ως τώρα](https://lefteros.com/blog/shadowrealms-ai-0-28/) · <sub>18 Οκτ 2026</sub>
+- [Ένας ολόκληρος πίνακας, έξω από τον browser](https://lefteros.com/blog/sticky-board-export/) · <sub>18 Οκτ 2026</sub>
 - [ShadowRealms AI 0.16 έως 0.22: η συνομιλία αποκτά φωνή](https://lefteros.com/blog/shadowrealms-ai-0-22/) · <sub>17 Οκτ 2026</sub>
 - [ShadowRealms AI 0.15: ghouls, σε V5 και σε Classic](https://lefteros.com/blog/shadowrealms-ai-0-15/) · <sub>16 Οκτ 2026</sub>
 - [ShadowRealms AI 0.14: χαρακτήρες V5 από τα βιβλία και νέο trailer](https://lefteros.com/blog/shadowrealms-ai-0-14/) · <sub>16 Οκτ 2026</sub>
-- [Skills για το dwm-titus: ο βοηθός στα σωστά αρχεία](https://lefteros.com/blog/dwm-titus-agent-skills/) · <sub>13 Οκτ 2026</sub>
-- [Patches για το nema, την εφαρμογή XMPP για Android του Thanos Apollo](https://lefteros.com/blog/nema-patches/) · <sub>13 Οκτ 2026</sub>
 <!-- POSTS:END -->
 
 <sub>Η λίστα ενημερώνεται μόνη της κάθε μέρα από το [feed του lefteros.com](https://lefteros.com/rss.xml). **[Όλα τα άρθρα →](https://lefteros.com/blog/)**</sub>
