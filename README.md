@@ -1,12 +1,9 @@
-<p align="right">
-  <b>🇬🇧 English</b> · <a href="README.el.md">🇬🇷 Ελληνικά</a>
-</p>
-
 <a href="https://lefteros.com/en/"><img src="assets/banner.svg" alt="lefteros_ · Lefteris Iliadis (SomniusX): ERP, servers and Linux, down to the firmware" width="100%"></a>
 
 <p align="center">
   <a href="https://lefteros.com/en/"><img src="https://img.shields.io/badge/lefteros__-lefteros.com-c2f66d?style=for-the-badge&labelColor=111513" alt="lefteros.com"></a>
   <a href="https://lefteros.com/en/blog/"><img src="https://img.shields.io/badge/blog-read-eef0e8?style=for-the-badge&labelColor=111513&logo=rss&logoColor=c2f66d" alt="Blog on lefteros.com"></a>
+  <a href="https://huggingface.co/somniusx"><img src="https://img.shields.io/badge/Hugging%20Face-somniusx-eef0e8?style=for-the-badge&labelColor=111513&logo=huggingface&logoColor=c2f66d" alt="Hugging Face"></a>
   <a href="https://www.linkedin.com/in/lefteris-eliades/"><img src="https://img.shields.io/badge/LinkedIn-connect-eef0e8?style=for-the-badge&labelColor=111513&logo=linkedin&logoColor=c2f66d" alt="LinkedIn"></a>
   <a href="https://linux-user.gr/u/somniusx/"><img src="https://img.shields.io/badge/Linux--User.gr-SomniusX-eef0e8?style=for-the-badge&labelColor=111513&logo=linux&logoColor=c2f66d" alt="Linux-User.gr"></a>
   <img src="https://komarev.com/ghpvc/?username=Somnius&style=for-the-badge&color=c2f66d&label=VISITORS" alt="Profile visitors">
@@ -14,15 +11,23 @@
 
 ## Hi, I'm Lefteris, or just Lef
 
-A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. By day I keep companies' servers and ERP running; the rest of the time I build things with whatever is new. Lately that means AI that runs on your own machine and plugins for [Omarchy](https://omarchy.org). On forums and almost everywhere else I'm **SomniusX**.
+A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. By day I keep companies' servers and ERP running; the rest of the time I build things with whatever is new. Lately that means AI that runs on your own machine, firmware for e-ink readers, plugins for [Omarchy](https://omarchy.org) and patches for other people's projects. On forums and almost everywhere else I'm **SomniusX**.
 
 Everything I make, write and have worked on lives at **[lefteros_ · lefteros.com](https://lefteros.com/en/)**: the [projects](https://lefteros.com/en/apps/), the [guides and posts](https://lefteros.com/en/blog/), [the full story](https://lefteros.com/en/about/) and [where else I show up](https://lefteros.com/en/presence/). This page is the short version.
 
-## Latest project: CrossInk in Greek
+## Latest project: CrossInk, from Greek to Burmese
 
-<a href="https://lefteros.com/en/apps/crossink-greek/"><img src="assets/cards/crossink-greek.webp" alt="CrossInk in Greek" width="100%"></a>
+<a href="https://lefteros.com/en/apps/crossink-indic/"><img src="assets/cards/crossink-indic.webp" alt="CrossInk-Indic: 13 Indic languages and Burmese for Xteink e-readers" width="100%"></a>
 
-**CrossInk** is open firmware (MIT) for the small **Xteink** e-ink readers. Until now it didn't speak Greek: Greek books came out as ◆ boxes, and neither the menu nor the hyphenation knew the language. I built Greek support in under 24 hours, and it's out as a test build for the **Xteink X4 Pro**.
+**CrossInk** is open firmware (MIT) for the small **Xteink** e-ink readers. It couldn't show Greek or any Indic script: those books came out as ◆ boxes. So I added them, Greek first and then fourteen more.
+
+**CrossInk-Indic** builds 13 Indic languages and Burmese right into the firmware, each with its fonts, its shaping and its own menu: Hindi, Marathi, Nepali, Bengali, Assamese, Punjabi, Gujarati, Odia, Tamil, Telugu, Kannada, Malayalam, Sinhala and Burmese. No fonts on an SD card needed. It runs on every Xteink, the X3, X4, X4 Pro, X4 Classic and Sticky, and the Burmese build is already on a reader's X4 Pro in Myanmar.
+
+**[CrossInk-Indic on lefteros.com →](https://lefteros.com/en/apps/crossink-indic/)** · [Download v1.6.0-indic.4](https://github.com/Somnius/CrossInk-Indic/releases) · [Hindi](https://lefteros.com/en/blog/crossink-indic/) · [13 languages](https://lefteros.com/en/blog/crossink-indic-13-languages/) · [Burmese](https://lefteros.com/en/blog/crossink-burmese/) · <sub>pre-release</sub>
+
+### CrossInk in Greek
+
+I built Greek support in under 24 hours, and it's out as a test build for the **Xteink X4 Pro**.
 
 - **Greek in the reading fonts.** Bitter and Lexend Deca have no Greek, so Greek subsets of Noto Serif and Noto Sans now sit next to them in every style.
 - **Greek hyphenation.** With justified text, words break where they should: κα-λη-μέ-ρα, ηλε-κτρο-νι-κός, προ-ϋ-πό-θε-ση.
@@ -47,19 +52,21 @@ Everything I make, write and have worked on lives at **[lefteros_ · lefteros.co
 
 ## Flagship: ShadowRealms AI
 
-<a href="https://lefteros.com/en/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai.webp" alt="ShadowRealms AI 0.10.0: a self-hosted AI Storyteller for World of Darkness" width="100%"></a>
+<a href="https://lefteros.com/en/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai-0-31.webp" alt="ShadowRealms AI 0.31.0: a self-hosted AI Storyteller for World of Darkness" width="100%"></a>
 
 **[ShadowRealms AI](https://github.com/Somnius/shadowrealms-ai)** is a self-hosted AI Storyteller for World of Darkness chronicles. You run it yourself with Docker, the stories come from local models through LM Studio and Ollama, and every chronicle plays by **Classic** (oWoD Revised: Vampire, Werewolf, Mage) or **V5** rules, in English or Greek. It's my biggest project.
 
-<p align="center"><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_en_1080p60.mp4"><img src="assets/shadowrealms/trailer-en.webp" alt="Watch the ShadowRealms AI trailer (2 minutes)" width="100%"></a><br>
-<sub><b><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_en_1080p60.mp4">Trailer in English</a></b> · <b><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.10.0/trailer_el_1080p60.mp4">Το trailer στα ελληνικά</a></b> · 2 minutes, recorded on a fresh copy of the app: real Storyteller replies from a local model, real dice rolls, an original score.</sub></p>
+<p align="center"><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.14.0/trailer_en_1080p60.mp4"><img src="assets/shadowrealms/trailer-v2-en.webp" alt="Watch the ShadowRealms AI trailer (2.5 minutes)" width="100%"></a><br>
+<sub><b><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.14.0/trailer_en_1080p60.mp4">Trailer in English</a></b> · <b><a href="https://github.com/Somnius/shadowrealms-ai/releases/download/trailer-v0.14.0/trailer_el_1080p60.mp4">Greek version</a></b> · 2.5 minutes, the new trailer from v0.14.</sub></p>
 
 - **Two rule sets.** Classic dice follow Revised (difficulties, botches, specialties, Willpower). V5 brings Hunger dice, messy criticals, bestial failures and Rouse checks.
 - **Dice from your sheet.** When the Storyteller calls for a roll, the server works out the pool from your character sheet, and every dice card in the chat is a real server roll.
 - **Discord-style play.** In-character and out-of-character rooms, live updates, slash commands, and a character forge for each edition.
 - **AI in roles.** English and Greek Storytellers (Llama-Krikri for Greek), long-term memory and rule-book search with bge-m3 in ChromaDB, and the Laya classifier moderating the OOC rooms.
 - **A gothic look.** 97 original SVG glyphs and sigils, animated dice, fog, candle glow and blood on a botch.
-- **A new engine in 0.10.0.** Vite instead of Create React App (builds in about a second, npm audit down from 69 findings to 0), React Router 7, Python 3.12, a pinned ChromaDB, and every lint warning fixed.
+- **Characters by the book.** V5 characters in the corebook's order with a rules catalog from 24 books, ghoul sheets for both editions, and every sheet as a PDF.
+- **Voice in the chat.** Hear the chat read aloud in English or Greek, a voice for each character and a narrator per chronicle, and speak your own lines. Piper, Pocket TTS and Whisper, all running locally.
+- **The chronicle so far.** The local model writes each chronicle up as minutes, night by night, as Markdown or PDF. The Storyteller reads them before every reply, so it remembers what happened three nights ago.
 
 <table>
 <tr>
@@ -78,7 +85,7 @@ Everything I make, write and have worked on lives at **[lefteros_ · lefteros.co
 
 ## Omarchy plugins
 
-Omarchy is the Arch + Hyprland setup everyone's trying right now. I build plugins for its bar, and I opened [a pull request upstream](https://github.com/basecamp/omarchy/pull/4230) for Libreboot / Coreboot support.
+Omarchy is an Arch + Hyprland setup by Basecamp. I build plugins for its bar, and five of them got their tooltips back on Omarchy 4.0.4 and are ready for Qt 6.12.
 
 <table>
 <tr>
@@ -91,7 +98,7 @@ Connect without a password prompt, RDP that reconnects by itself, live CPU, memo
 <td width="50%" valign="top">
 <a href="https://lefteros.com/en/apps/omarchy-keyboard-layout/"><img src="assets/cards/cover-keyboard-layout-1-2.webp" alt="Keyboard Layout for Omarchy"></a>
 <b><a href="https://github.com/Somnius/Keyboard-Layout-for-Omarchy">Keyboard Layout for Omarchy</a></b> <img src="https://img.shields.io/github/stars/Somnius/Keyboard-Layout-for-Omarchy?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
-A live layout indicator in the bar: switch layouts, pick any xkb pair, Caps LED support.<br>
+A layout indicator and switcher in the bar: up to four layouts with variants, switching synced across every keyboard, safe edits of input.lua with backups. Now at 1.2.5.<br>
 <a href="https://lefteros.com/en/apps/omarchy-keyboard-layout/">On lefteros.com →</a>
 </td>
 </tr>
@@ -124,9 +131,33 @@ The Serpantinum shell's widgets brought to Omarchy: <a href="https://github.com/
 </tr>
 </table>
 
+## Patches upstream
+
+When a project I use is missing something, I send the fix to the people who make it.
+
+- **[dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)**, Chris Titus's Fedora desktop: kitty that follows the theme, hidden Wi-Fi from the panel, a keyboard layout pill, seconds in the clock, clearer update docs, and skills for terminal assistants in titus-ai. [Where each one stands →](https://lefteros.com/en/apps/dwm-titus/)
+- **[nema](https://git.thanosapollo.org/nema/about/)**, Thanos Apollo's XMPP messenger for Android: day separators, room names, thread markers and more, sent the old way, by email. [More →](https://lefteros.com/en/apps/nema/)
+- **[eucWatch](https://github.com/enaon/eucWatch)**, an electric unicycle dash for cheap smartwatches: three fixes that sat in a fork, all merged the same evening. [More →](https://lefteros.com/en/apps/eucwatch/)
+- **[Emojis & Nerd Fonts for Omarchy](https://github.com/farangkao/omarchy-emojis-nerd)**: a Recents tab, Alt+number hotkeys and hints, out in 1.2.1.
+- **[Omarchy](https://github.com/basecamp/omarchy/pull/4230)**: a pull request for Libreboot / Coreboot support.
+
 ## Tools and local AI
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://lefteros.com/en/apps/recmeets-laya/"><img src="assets/cards/recmeets-laya.webp" alt="RecMeets' Laya on Hugging Face"></a>
+<b><a href="https://huggingface.co/somniusx/recmeets-laya-words">RecMeets' Laya</a></b><br>
+A model of my own on Hugging Face. It finds the words a speech recognizer got wrong, in Greek and English, and runs on the processor: ONNX, 343 MB, AUROC 0.91 in Greek, Apache 2.0.<br>
+<a href="https://lefteros.com/en/apps/recmeets-laya/">On lefteros.com →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://lefteros.com/en/apps/recmeets/"><img src="assets/cards/cover-recmeets.webp" alt="RecMeets"></a>
+<b><a href="https://lefteros.com/en/apps/recmeets/">RecMeets</a></b> · <i>coming soon</i><br>
+Two-track meeting recording with local transcription, speakers and chapters. Rust, whisper.cpp, ONNX Runtime.<br>
+<a href="https://lefteros.com/en/apps/recmeets/">On lefteros.com →</a>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Somnius/virt-spinner"><img src="assets/cards/virt-spinner.webp" alt="virt-spinner"></a>
@@ -142,28 +173,28 @@ Offline dictation for Arch + Hyprland and Fedora KDE on Wayland, built on whispe
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Somnius/Claudius-Bootstrapper"><img src="assets/cards/claudius-bootstrapper.webp" alt="Claudius Bootstrapper"></a>
-<b><a href="https://github.com/Somnius/Claudius-Bootstrapper">Claudius-Bootstrapper</a></b> <img src="https://img.shields.io/github/stars/Somnius/Claudius-Bootstrapper?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
-Run your own LM Studio models (or any compatible endpoint) inside Claude Code, in the terminal or in a VS Code fork. Pick a model, set it up, launch.
+<a href="https://lefteros.com/en/apps/sticky-board-export/"><img src="assets/cards/sticky-board-export.webp" alt="sticky-board-export"></a>
+<b><a href="https://github.com/Somnius/sticky-board-export">sticky-board-export</a></b><br>
+Exports a whole Sticky Studio board to an Obsidian vault, an Obsidian Canvas and a PDF. Python with no dependencies, and it reads only a saved copy, never the board itself.<br>
+<a href="https://lefteros.com/en/apps/sticky-board-export/">On lefteros.com →</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Somnius/EucWorldPebble"><img src="assets/cards/eucworldpebble.webp" alt="EUC World on Pebble"></a>
 <b><a href="https://github.com/Somnius/EucWorldPebble">EucWorldPebble</a></b> <img src="https://img.shields.io/github/stars/Somnius/EucWorldPebble?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
-A Pebble watch app for the EUC World app for electric unicycles. It puts speed, battery, temperature, voltage and current on your wrist. There are two faces, Current &amp; Voltage and Time &amp; Voltage with a big speed gauge, and they run on every Pebble, round ones included. I built it with Alex Kintis on top of WheelLogPebble.<br>
+Your electric unicycle's speed, battery, temperature, voltage and current on a Pebble, round ones included. I built it with Alex Kintis on top of WheelLogPebble.<br>
 <a href="https://github.com/Somnius/EucWorldPebble/releases">Download the .pbw →</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/Somnius/Claudius-Bootstrapper"><img src="assets/cards/claudius-bootstrapper.webp" alt="Claudius Bootstrapper"></a>
+<b><a href="https://github.com/Somnius/Claudius-Bootstrapper">Claudius-Bootstrapper</a></b> <img src="https://img.shields.io/github/stars/Somnius/Claudius-Bootstrapper?style=flat-square&color=c2f66d&labelColor=111513&label=%E2%98%85" alt="stars"><br>
+Run your own LM Studio models (or any compatible endpoint) inside Claude Code, in the terminal or in a VS Code fork.
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/Somnius/local-mobile-llm-mcp"><img src="assets/cards/local-mobile-llm-mcp.webp" alt="Local mobile LLM with MCP"></a>
 <b><a href="https://github.com/Somnius/local-mobile-llm-mcp">local-mobile-llm-mcp</a></b><br>
 On-device LLMs for phones with MCP tools (search, files, databases), so you don't need a cloud service.
-</td>
-<td width="50%" valign="top">
-<a href="https://lefteros.com/en/apps/recmeets/"><img src="assets/cards/cover-recmeets.webp" alt="RecMeets"></a>
-<b><a href="https://lefteros.com/en/apps/recmeets/">RecMeets</a></b> · <i>coming soon</i><br>
-Two-track meeting recording with local transcription, speakers and chapters. Rust, whisper.cpp, ONNX Runtime.<br>
-<a href="https://lefteros.com/en/apps/recmeets/">On lefteros.com →</a>
 </td>
 </tr>
 </table>
@@ -197,11 +228,11 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 </tr>
 <tr>
 <td valign="top"><b>Linux, down to the firmware</b><br>From Red Hat in 1997 to <a href="https://lefteros.com/blog/linux-user-6006/">Libreboot on ThinkPads</a>, <a href="https://lefteros.com/blog/linux-user-6339/">declarative NixOS</a> and tools for Omarchy.</td>
-<td valign="top"><b>Local AI and speech</b><br>Models that run on your own machine: an AI Storyteller for World of Darkness with RAG memory, meeting transcription without the cloud, offline dictation.</td>
+<td valign="top"><b>Local AI and speech</b><br>Models that run on your own machine: an AI Storyteller for World of Darkness with RAG memory, meeting transcription without the cloud, offline dictation, and <a href="https://lefteros.com/en/apps/recmeets-laya/">a model of my own on Hugging Face</a> that finds misheard words.</td>
 </tr>
 <tr>
 <td valign="top"><b>Servers under pressure</b><br>With the RFS Dev Team I kept an event with <a href="https://lefteros.com/en/blog/gameathlon-athens-2013/">8,000+ simultaneous players</a> online.</td>
-<td valign="top"><b>Greek on every screen</b><br>37,200+ changes to <a href="https://lefteros.com/en/apps/miui-v5-greek-translation/">the MIUI Greek translation</a>, OnePlus texts, Call Recorder, tTorrent, Mac localisations.</td>
+<td valign="top"><b>Languages on every screen</b><br>37,200+ changes to <a href="https://lefteros.com/en/apps/miui-v5-greek-translation/">the MIUI Greek translation</a>, OnePlus texts, Call Recorder, tTorrent, Mac localisations, and now e-ink readers in <a href="https://lefteros.com/en/apps/crossink-greek/">Greek</a>, <a href="https://lefteros.com/en/apps/crossink-indic/">13 Indic languages and Burmese</a>.</td>
 </tr>
 </table>
 
@@ -213,6 +244,7 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 - A 1:10 map of **Ancient Greece in Minecraft** that we built [made the SKAI evening news](https://lefteros.com/en/blog/ancient-greece-minecraft-map-skai-2016/) in 2016.
 - I moderated Hackintosh forums for years and ran [HellasProject](https://lefteros.com/en/presence/) from 2007 to 2014.
 - These days I flash **Libreboot onto ThinkPads** for fun, and I called the first **Omarchy Greece** meetup.
+- Away from the screen it's music first: I hold a **piano diploma** from the Greek National Conservatory, play guitar and record my own samples. The house is slowly turning smart on Raspberry Pi and Arduino boards, and I still ride electric unicycles.
 
 <details>
 <summary><b>Twenty-seven years, in one scroll</b></summary>
@@ -220,7 +252,7 @@ Two-track meeting recording with local transcription, speakers and chapters. Rus
 
 | When | What |
 |---|---|
-| **2025 → now** | EDP, IT, ICT and project manager · CrossInk in Greek · ShadowRealms AI · RecMeets · Libreboot, NixOS and Omarchy |
+| **2025 → now** | EDP, IT, ICT and project manager · ShadowRealms AI · CrossInk in Greek and CrossInk-Indic · RecMeets and its Laya model · patches for dwm-titus, nema and eucWatch · Libreboot, NixOS and Omarchy |
 | **2023 – 2025** | IT manager and ERP consultant, MPALASKAS YSS SA |
 | **2023** | DevOps, SaaS / PaaS, EDP / TSG, CoreiT Greece |
 | **2019 – 2023** | IT manager and ERP consultant, ALEXANDROS SA |

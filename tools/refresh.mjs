@@ -1,5 +1,5 @@
 // Daily refresh for the profile: draws assets/stats.svg from public GitHub data and writes the
-// newest lefteros.com posts into README.md (English feed) and README.el.md (Greek feed).
+// newest lefteros.com posts into README.md (English feed).
 // Node 20+, no dependencies. Needs GITHUB_TOKEN (the Actions token is enough).
 //
 //   GITHUB_TOKEN=$(gh auth token) node tools/refresh.mjs
@@ -75,7 +75,7 @@ async function posts(feed, locale) {
     return `- [${tag('title').replace(/[[\]]/g, '')}](${tag('link')})${date ? ` · <sub>${date}</sub>` : ''}`;
   }).join('\n');
 }
-for (const [file, feed, locale] of [['README.md', 'https://lefteros.com/en/rss.xml', 'en-GB'], ['README.el.md', 'https://lefteros.com/rss.xml', 'el-GR']]) {
+for (const [file, feed, locale] of [['README.md', 'https://lefteros.com/en/rss.xml', 'en-GB']]) {
   const list = await posts(feed, locale);
   if (!list) { console.error(`no posts from ${feed}, leaving ${file} as it is`); continue; }
   const md = fs.readFileSync(file, 'utf8');
