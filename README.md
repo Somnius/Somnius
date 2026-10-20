@@ -270,11 +270,11 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 ## Latest on lefteros.com
 
 <!-- POSTS:START -->
+- [ShadowRealms AI 0.29 to 0.31: the Storyteller remembers](https://lefteros.com/en/blog/shadowrealms-ai-0-31/) · <sub>19 Oct 2026</sub>
 - [ShadowRealms AI 0.23 to 0.28: the chronicle so far](https://lefteros.com/en/blog/shadowrealms-ai-0-28/) · <sub>18 Oct 2026</sub>
 - [A whole board, out of the browser](https://lefteros.com/en/blog/sticky-board-export/) · <sub>18 Oct 2026</sub>
 - [ShadowRealms AI 0.16 to 0.22: the chat gets a voice](https://lefteros.com/en/blog/shadowrealms-ai-0-22/) · <sub>17 Oct 2026</sub>
 - [ShadowRealms AI 0.15: ghouls, in V5 and in Classic](https://lefteros.com/en/blog/shadowrealms-ai-0-15/) · <sub>16 Oct 2026</sub>
-- [ShadowRealms AI 0.14: V5 characters by the book and a new trailer](https://lefteros.com/en/blog/shadowrealms-ai-0-14/) · <sub>16 Oct 2026</sub>
 <!-- POSTS:END -->
 
 <sub>The list updates itself every day from the [lefteros.com feed](https://lefteros.com/en/rss.xml). **[All posts →](https://lefteros.com/en/blog/)**</sub>
