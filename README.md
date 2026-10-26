@@ -15,7 +15,15 @@ A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. B
 
 Everything I make, write and have worked on lives at **[lefteros_ · lefteros.com](https://lefteros.com/en/)**: the [projects](https://lefteros.com/en/apps/), the [guides and posts](https://lefteros.com/en/blog/), [the full story](https://lefteros.com/en/about/) and [where else I show up](https://lefteros.com/en/presence/). This page is the short version.
 
-## Latest project: CrossInk, from Greek to Burmese
+## Latest project: VaultInk, my Obsidian vaults on e-ink
+
+**[VaultInk](https://github.com/Somnius/VaultInk)** is firmware (MIT) for the **Xteink X4 Pro** that keeps everything CrossPoint Reader does for books and adds my Obsidian notes: open a vault from the SD card, read notes with their links, callouts, tasks and tables, and later search, edit and sync them with LiveSync. It has a new home screen, quick settings, a welcome guide and Greek all the way through, menus and hyphenation included, polytonic too.
+
+It's early: everything so far is tested in the simulator, and the first device tests are starting now.
+
+**[Install it from your browser →](https://somnius.github.io/VaultInk/)** · [VaultInk on lefteros.com](https://lefteros.com/apps/vaultink) · [The code](https://github.com/Somnius/VaultInk) · <sub>test build</sub>
+
+## CrossInk, from Greek to Burmese
 
 <a href="https://lefteros.com/en/apps/crossink-indic/"><img src="assets/cards/crossink-indic.webp" alt="CrossInk-Indic: 13 Indic languages and Burmese for Xteink e-readers" width="100%"></a>
 
