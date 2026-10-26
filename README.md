@@ -15,49 +15,6 @@ A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. B
 
 Everything I make, write and have worked on lives at **[lefteros_ · lefteros.com](https://lefteros.com/en/)**: the [projects](https://lefteros.com/en/apps/), the [guides and posts](https://lefteros.com/en/blog/), [the full story](https://lefteros.com/en/about/) and [where else I show up](https://lefteros.com/en/presence/). This page is the short version.
 
-## Latest project: VaultInk, my Obsidian vaults on e-ink
-
-**[VaultInk](https://github.com/Somnius/VaultInk)** is firmware (MIT) for the **Xteink X4 Pro** that keeps everything CrossPoint Reader does for books and adds my Obsidian notes: open a vault from the SD card, read notes with their links, callouts, tasks and tables, and later search, edit and sync them with LiveSync. It has a new home screen, quick settings, a welcome guide and Greek all the way through, menus and hyphenation included, polytonic too.
-
-It's early: everything so far is tested in the simulator, and the first device tests are starting now.
-
-**[Install it from your browser →](https://somnius.github.io/VaultInk/)** · [VaultInk on lefteros.com](https://lefteros.com/apps/vaultink) · [The code](https://github.com/Somnius/VaultInk) · <sub>test build</sub>
-
-## CrossInk, from Greek to Burmese
-
-<a href="https://lefteros.com/en/apps/crossink-indic/"><img src="assets/cards/crossink-indic.webp" alt="CrossInk-Indic: 13 Indic languages and Burmese for Xteink e-readers" width="100%"></a>
-
-**CrossInk** is open firmware (MIT) for the small **Xteink** e-ink readers. It couldn't show Greek or any Indic script: those books came out as ◆ boxes. So I added them, Greek first and then fourteen more.
-
-**CrossInk-Indic** builds 13 Indic languages and Burmese right into the firmware, each with its fonts, its shaping and its own menu: Hindi, Marathi, Nepali, Bengali, Assamese, Punjabi, Gujarati, Odia, Tamil, Telugu, Kannada, Malayalam, Sinhala and Burmese. No fonts on an SD card needed. It runs on every Xteink, the X3, X4, X4 Pro, X4 Classic and Sticky, and the Burmese build is already on a reader's X4 Pro in Myanmar.
-
-**[CrossInk-Indic on lefteros.com →](https://lefteros.com/en/apps/crossink-indic/)** · [Download v1.6.0-indic.4](https://github.com/Somnius/CrossInk-Indic/releases) · [Hindi](https://lefteros.com/en/blog/crossink-indic/) · [13 languages](https://lefteros.com/en/blog/crossink-indic-13-languages/) · [Burmese](https://lefteros.com/en/blog/crossink-burmese/) · <sub>pre-release</sub>
-
-### CrossInk in Greek
-
-I built Greek support in under 24 hours, and it's out as a test build for the **Xteink X4 Pro**.
-
-- **Greek in the reading fonts.** Bitter and Lexend Deca have no Greek, so Greek subsets of Noto Serif and Noto Sans now sit next to them in every style.
-- **Greek hyphenation.** With justified text, words break where they should: κα-λη-μέ-ρα, ηλε-κτρο-νι-κός, προ-ϋ-πό-θε-ση.
-- **A Greek menu.** All 843 interface strings are translated.
-- **Greek titles everywhere.** The home screen, descriptions and clippings show Greek titles and authors properly, even with an English menu.
-- **Room to spare.** With Vietnamese and Arabic taken out, the Greek build is still about 57 KB smaller than the official 1.6.0.
-
-<p align="center"><img src="assets/crossink-before-after.webp" alt="Cavafy's Ithaka in the Bitter font: the official 1.6.0 shows boxes, the Greek build shows the text" width="80%"><br>
-<sub>Cavafy's <i>Ithaka</i> in Bitter: on the left the official 1.6.0, on the right the Greek build.</sub></p>
-
-**[The app page on lefteros.com →](https://lefteros.com/en/apps/crossink-greek/)** · **[How it was built, step by step →](https://lefteros.com/en/blog/crossink-greek/)**
-<br>[Download v1.6.0-greek2 for the X4 Pro](https://github.com/Somnius/CrossInk/releases) · [The proposal to CrossInk (#789)](https://github.com/uxjulia/CrossInk/discussions/789) · <sub>beta</sub>
-
-## Languages and tools
-
-<p align="center">
-  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=linux,arch,nix,windows,apple,docker,bash,git,githubactions,vscode&perline=10" alt="Systems and tools"></a><br>
-  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=py,rust,qt,js,php,html,css,astro,react,flask,mysql,sqlite,wordpress,pytorch&perline=14" alt="Languages and frameworks"></a>
-</p>
-
-<p align="center"><sub>Also: Proxmox · ESXi · KVM · MikroTik · Synology · Microsoft 365 · MS SQL · Semantic · Cubit · Soft1 · Singular / Epsilon · whisper.cpp · llama.cpp · Ollama · ChromaDB · MCP</sub></p>
-
 ## Flagship: ShadowRealms AI
 
 <a href="https://lefteros.com/en/apps/shadowrealms-ai/"><img src="assets/cards/cover-shadowrealms-ai-0-31.webp" alt="ShadowRealms AI 0.31.0: a self-hosted AI Storyteller for World of Darkness" width="100%"></a>
@@ -90,6 +47,58 @@ I built Greek support in under 24 hours, and it's out as a test build for the **
 </table>
 
 [![Stars](https://img.shields.io/github/stars/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/stargazers) [![Release](https://img.shields.io/github/v/release/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/releases/latest) · **[Read the story on lefteros.com →](https://lefteros.com/en/apps/shadowrealms-ai/)**
+
+## Latest project: VaultInk, my Obsidian vaults on e-ink
+
+**[VaultInk](https://github.com/Somnius/VaultInk)** is firmware (MIT) for the **Xteink X4 Pro** that keeps everything CrossPoint Reader does for books and adds my Obsidian notes: open a vault from the SD card, read notes with their links, callouts, tasks and tables, and later search, edit and sync them with LiveSync. It has a new home screen, quick settings, a welcome guide and Greek all the way through, menus and hyphenation included, polytonic too.
+
+<p align="center">
+  <a href="https://github.com/Somnius/VaultInk"><img src="assets/vaultink/home.webp" width="23%" alt="VaultInk home screen"></a>
+  <a href="https://github.com/Somnius/VaultInk"><img src="assets/vaultink/home-el.webp" width="23%" alt="The home screen in Greek"></a>
+  <a href="https://github.com/Somnius/VaultInk"><img src="assets/vaultink/quick.webp" width="23%" alt="Quick settings over a book"></a>
+  <a href="https://github.com/Somnius/VaultInk"><img src="assets/vaultink/toolbar.webp" width="23%" alt="The reading toolbar"></a><br>
+  <sub>Home, home in Greek, quick settings and the reading toolbar, from the simulator.</sub>
+</p>
+
+It's early: everything so far is tested in the simulator, and the first device tests are starting now.
+
+**[Install it from your browser →](https://somnius.github.io/VaultInk/)** · [VaultInk on lefteros.com](https://lefteros.com/apps/vaultink) · [The code](https://github.com/Somnius/VaultInk) · <sub>test build</sub>
+
+## Tech stack
+
+<p align="center">
+  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=linux,arch,nix,windows,apple,docker,bash,powershell,git,githubactions,vscode&perline=11" alt="Systems and tools"></a><br>
+  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=py,c,cpp,rust,qt,kotlin,js,ts,php,html,css,cmake&perline=12" alt="Languages"></a><br>
+  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=react,vite,flask,astro,postgres,mysql,sqlite,pytorch,obsidian,arduino,raspberrypi,wordpress&perline=12" alt="Frameworks, databases and hardware"></a>
+</p>
+
+<p align="center"><sub>Also: ESP32-S3 · PlatformIO · Quickshell / QML · Hyprland · Omarchy · ONNX Runtime · whisper.cpp · llama.cpp · LM Studio · Ollama · ChromaDB · Piper · Hugging Face · MCP · Proxmox · ESXi · KVM · libvirt · MikroTik · Synology · Microsoft 365 · MS SQL · Semantic · Cubit · Soft1 · Singular / Epsilon</sub></p>
+
+## CrossInk, from Greek to Burmese
+
+<a href="https://lefteros.com/en/apps/crossink-indic/"><img src="assets/cards/crossink-indic.webp" alt="CrossInk-Indic: 13 Indic languages and Burmese for Xteink e-readers" width="100%"></a>
+
+**CrossInk** is open firmware (MIT) for the small **Xteink** e-ink readers. It couldn't show Greek or any Indic script: those books came out as ◆ boxes. So I added them, Greek first and then fourteen more.
+
+**CrossInk-Indic** builds 13 Indic languages and Burmese right into the firmware, each with its fonts, its shaping and its own menu: Hindi, Marathi, Nepali, Bengali, Assamese, Punjabi, Gujarati, Odia, Tamil, Telugu, Kannada, Malayalam, Sinhala and Burmese. No fonts on an SD card needed. It runs on every Xteink, the X3, X4, X4 Pro, X4 Classic and Sticky, and the Burmese build is already on a reader's X4 Pro in Myanmar.
+
+**[CrossInk-Indic on lefteros.com →](https://lefteros.com/en/apps/crossink-indic/)** · [Download v1.6.0-indic.4](https://github.com/Somnius/CrossInk-Indic/releases) · [Hindi](https://lefteros.com/en/blog/crossink-indic/) · [13 languages](https://lefteros.com/en/blog/crossink-indic-13-languages/) · [Burmese](https://lefteros.com/en/blog/crossink-burmese/) · <sub>pre-release</sub>
+
+### CrossInk in Greek
+
+I built Greek support in under 24 hours, and it's out as a test build for the **Xteink X4 Pro**.
+
+- **Greek in the reading fonts.** Bitter and Lexend Deca have no Greek, so Greek subsets of Noto Serif and Noto Sans now sit next to them in every style.
+- **Greek hyphenation.** With justified text, words break where they should: κα-λη-μέ-ρα, ηλε-κτρο-νι-κός, προ-ϋ-πό-θε-ση.
+- **A Greek menu.** All 843 interface strings are translated.
+- **Greek titles everywhere.** The home screen, descriptions and clippings show Greek titles and authors properly, even with an English menu.
+- **Room to spare.** With Vietnamese and Arabic taken out, the Greek build is still about 57 KB smaller than the official 1.6.0.
+
+<p align="center"><img src="assets/crossink-before-after.webp" alt="Cavafy's Ithaka in the Bitter font: the official 1.6.0 shows boxes, the Greek build shows the text" width="80%"><br>
+<sub>Cavafy's <i>Ithaka</i> in Bitter: on the left the official 1.6.0, on the right the Greek build.</sub></p>
+
+**[The app page on lefteros.com →](https://lefteros.com/en/apps/crossink-greek/)** · **[How it was built, step by step →](https://lefteros.com/en/blog/crossink-greek/)**
+<br>[Download v1.6.0-greek2 for the X4 Pro](https://github.com/Somnius/CrossInk/releases) · [The proposal to CrossInk (#789)](https://github.com/uxjulia/CrossInk/discussions/789) · <sub>beta</sub>
 
 ## Omarchy plugins
 
