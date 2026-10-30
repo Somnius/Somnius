@@ -287,11 +287,11 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 ## Latest on lefteros.com
 
 <!-- POSTS:START -->
+- [VaultInk 0.41: sync, editing, comics and an Android companion](https://lefteros.com/en/blog/vaultink-0-41/) · <sub>30 Oct 2026</sub>
+- [So why would you want PowerShell on Linux anyway?](https://lefteros.com/en/blog/linux-user-6462/) · <sub>29 Oct 2026</sub>
 - [VaultInk: my Obsidian notes on a pocket e-reader](https://lefteros.com/en/blog/vaultink/) · <sub>26 Oct 2026</sub>
 - [Windows 10 at the office: this year the extension costs double](https://lefteros.com/en/blog/windows-10-esu-2026/) · <sub>24 Oct 2026</sub>
 - [Crackling audio in Renoise on Omarchy: the realtime fix, without rtkit](https://lefteros.com/en/blog/omarchy-renoise-realtime-audio/) · <sub>22 Oct 2026</sub>
-- [PHP2Shell: if your site runs on WordPress, update PHP, not the plugins](https://lefteros.com/en/blog/php2shell/) · <sub>22 Oct 2026</sub>
-- [ShadowRealms AI 0.29 to 0.31: the Storyteller remembers](https://lefteros.com/en/blog/shadowrealms-ai-0-31/) · <sub>19 Oct 2026</sub>
 <!-- POSTS:END -->
 
 <sub>The list updates itself every day from the [lefteros.com feed](https://lefteros.com/en/rss.xml). **[All posts →](https://lefteros.com/en/blog/)**</sub>
