@@ -287,7 +287,7 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 ## Latest on lefteros.com
 
 <!-- POSTS:START -->
-- [VaultInk 0.41: sync, editing, comics and an Android companion](https://lefteros.com/en/blog/vaultink-0-41/) · <sub>30 Oct 2026</sub>
+- [VaultInk 0.48: sync, editing, comics and an Android companion](https://lefteros.com/en/blog/vaultink-0-41/) · <sub>30 Oct 2026</sub>
 - [So why would you want PowerShell on Linux anyway?](https://lefteros.com/en/blog/linux-user-6462/) · <sub>29 Oct 2026</sub>
 - [VaultInk: my Obsidian notes on a pocket e-reader](https://lefteros.com/en/blog/vaultink/) · <sub>26 Oct 2026</sub>
 - [Windows 10 at the office: this year the extension costs double](https://lefteros.com/en/blog/windows-10-esu-2026/) · <sub>24 Oct 2026</sub>
