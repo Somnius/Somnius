@@ -287,11 +287,11 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 ## Latest on lefteros.com
 
 <!-- POSTS:START -->
+- [Omarchy on the Pixel 8 Pro: Wi-Fi, 120 Hz and better charging](https://lefteros.com/en/blog/omarchy-mobile-wifi-charging-pixel-8-pro/) · <sub>2 Nov 2026</sub>
+- [CVE-2026-97631: the UEFI flaw that hits servers before the OS starts](https://lefteros.com/en/blog/uefi-edk2-pxe-cve-2026-97631/) · <sub>1 Nov 2026</sub>
+- [VaultInk 0.62: Dice, Sudoku, VaultEUC and a much better Library](https://lefteros.com/en/blog/vaultink-0-62/) · <sub>1 Nov 2026</sub>
 - [Omarchy on the Pixel 8 Pro: the battery reads](https://lefteros.com/en/blog/omarchy-mobile-battery-pixel-8-pro/) · <sub>1 Nov 2026</sub>
 - [Omarchy on my Pixel 8 Pro: first boot, and what's left](https://lefteros.com/en/blog/omarchy-mobile-pixel-8-pro/) · <sub>31 Oct 2026</sub>
-- [VaultInk 0.55: flashcards, search in a book, a lock screen and reading stats](https://lefteros.com/en/blog/vaultink-0-55/) · <sub>31 Oct 2026</sub>
-- [VaultInk 0.48: sync, editing, comics and an Android companion](https://lefteros.com/en/blog/vaultink-0-41/) · <sub>30 Oct 2026</sub>
-- [So why would you want PowerShell on Linux anyway?](https://lefteros.com/en/blog/linux-user-6462/) · <sub>29 Oct 2026</sub>
 <!-- POSTS:END -->
 
 <sub>The list updates itself every day from the [lefteros.com feed](https://lefteros.com/en/rss.xml). **[All posts →](https://lefteros.com/en/blog/)**</sub>
