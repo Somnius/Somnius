@@ -287,11 +287,11 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 ## Latest on lefteros.com
 
 <!-- POSTS:START -->
+- [Omarchy on the Pixel 8 Pro: the speakers work](https://lefteros.com/en/blog/omarchy-mobile-sound-pixel-8-pro/) · <sub>6 Nov 2026</sub>
+- [VaultInk 0.70: MOBI books, reading presets, Advanced Typography and a lot more](https://lefteros.com/en/blog/vaultink-0-70/) · <sub>5 Nov 2026</sub>
 - [My dwm-titus work is merged: agent skills, Diagnose with AI and eight more pull requests](https://lefteros.com/en/blog/dwm-titus-merged-upstream/) · <sub>3 Nov 2026</sub>
 - [Omarchy on the Pixel 8 Pro: Wi-Fi, 120 Hz and better charging](https://lefteros.com/en/blog/omarchy-mobile-wifi-charging-pixel-8-pro/) · <sub>2 Nov 2026</sub>
 - [CVE-2026-97631: the UEFI flaw that hits servers before the OS starts](https://lefteros.com/en/blog/uefi-edk2-pxe-cve-2026-97631/) · <sub>1 Nov 2026</sub>
-- [VaultInk 0.62: Dice, Sudoku, VaultEUC and a much better Library](https://lefteros.com/en/blog/vaultink-0-62/) · <sub>1 Nov 2026</sub>
-- [Omarchy on the Pixel 8 Pro: the battery reads](https://lefteros.com/en/blog/omarchy-mobile-battery-pixel-8-pro/) · <sub>1 Nov 2026</sub>
 <!-- POSTS:END -->
 
 <sub>The list updates itself every day from the [lefteros.com feed](https://lefteros.com/en/rss.xml). **[All posts →](https://lefteros.com/en/blog/)**</sub>
