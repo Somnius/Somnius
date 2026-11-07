@@ -79,12 +79,12 @@ Kostas (kos25k) tests it on a real X4 Pro and has opened more than twenty issues
 ## Tech stack
 
 <p align="center">
-  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=linux,arch,nix,windows,apple,docker,bash,powershell,git,githubactions,vscode&perline=11" alt="Systems and tools"></a><br>
-  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=py,c,cpp,rust,qt,kotlin,js,ts,php,html,css,cmake&perline=12" alt="Languages"></a><br>
+  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=linux,arch,nix,windows,apple,androidstudio,docker,bash,powershell,git,githubactions,vscode&perline=12" alt="Systems and tools"></a><br>
+  <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=py,c,cpp,rust,qt,kotlin,lua,js,ts,php,html,css,cmake&perline=13" alt="Languages"></a><br>
   <a href="https://lefteros.com/en/about/"><img src="https://skillicons.dev/icons?i=react,vite,flask,astro,postgres,mysql,sqlite,pytorch,obsidian,arduino,raspberrypi,wordpress&perline=12" alt="Frameworks, databases and hardware"></a>
 </p>
 
-<p align="center"><sub>Also: ESP32-S3 · PlatformIO · Quickshell / QML · Hyprland · Omarchy · ONNX Runtime · whisper.cpp · llama.cpp · LM Studio · Ollama · ChromaDB · Piper · Hugging Face · MCP · Proxmox · ESXi · KVM · libvirt · MikroTik · Synology · Microsoft 365 · MS SQL · Semantic · Cubit · Soft1 · Singular / Epsilon</sub></p>
+<p align="center"><sub>Also: Arch Linux ARM · mainline Linux kernel on phones · PipeWire · ESP32-S3 · PlatformIO · Quickshell / QML · Hyprland · Omarchy · D-Bus / AT-SPI · Webamp · Self-hosted LiveSync · ONNX Runtime · whisper.cpp · llama.cpp · LM Studio · Ollama · ChromaDB · Piper · Hugging Face · MCP · Proxmox · ESXi · KVM · libvirt · MikroTik · Synology · Microsoft 365 · MS SQL · Semantic · Cubit · Soft1 · Singular / Epsilon</sub></p>
 
 ## CrossInk, from Greek to Burmese
 
