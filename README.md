@@ -11,9 +11,19 @@
 
 ## Hi, I'm Lefteris, or just Lef
 
-A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. By day I keep companies' servers and ERP running; the rest of the time I build things with whatever is new. Lately that means AI that runs on your own machine, firmware for e-ink readers, plugins for [Omarchy](https://omarchy.org) and patches for other people's projects. On forums and almost everywhere else I'm **SomniusX**.
+A friend installed **Red Hat** on my PC in 1997 and I never stopped tinkering. By day I keep companies' servers and ERP running; the rest of the time I build things with whatever is new. Lately that means Omarchy on a phone, AI that runs on your own machine, firmware for e-ink readers, plugins for [Omarchy](https://omarchy.org) and patches for other people's projects. On forums and almost everywhere else I'm **SomniusX**.
 
 Everything I make, write and have worked on lives at **[lefteros_ · lefteros.com](https://lefteros.com/en/)**: the [projects](https://lefteros.com/en/apps/), the [guides and posts](https://lefteros.com/en/blog/), [the full story](https://lefteros.com/en/about/) and [where else I show up](https://lefteros.com/en/presence/). This page is the short version.
+
+## Right now: Omarchy Mobile on my Pixel 8 Pro
+
+<a href="https://lefteros.com/en/apps/omarchy-mobile/"><img src="assets/cards/omarchy-mobile.webp" alt="Omarchy Mobile on the Pixel 8 Pro" width="100%"></a>
+
+**[Omarchy Mobile](https://omamobile.org)** runs real Omarchy on a phone: Arch Linux ARM, Hyprland and a mainline kernel. It's Derek Ross's project, and the Pixel 8 Pro port is led by Brett-Michael Green. My part is testing that port on a second Pixel 8 Pro and helping where I can.
+
+In about a week my phone went from GrapheneOS to booting Omarchy, then got a real battery reading, 5 GHz Wi-Fi, the GPU, a 120 Hz display, better charging, a Type-C driver, and both speakers playing. It's early work, not a usable phone yet: no microphones, and idle power and heat are still open.
+
+**[Where it stands on my phone →](https://lefteros.com/en/apps/omarchy-mobile/)** · [First boot](https://lefteros.com/en/blog/omarchy-mobile-pixel-8-pro/) · [Battery](https://lefteros.com/en/blog/omarchy-mobile-battery-pixel-8-pro/) · [Wi-Fi, 120 Hz and charging](https://lefteros.com/en/blog/omarchy-mobile-wifi-charging-pixel-8-pro/) · [Sound](https://lefteros.com/en/blog/omarchy-mobile-sound-pixel-8-pro/) · [My forks: omarchy-mobile](https://github.com/Somnius/omarchy-mobile), [the kernel](https://github.com/Somnius/linux-omarchy-mobile) · <sub>testing</sub>
 
 ## Flagship: ShadowRealms AI
 
@@ -48,9 +58,11 @@ Everything I make, write and have worked on lives at **[lefteros_ · lefteros.co
 
 [![Stars](https://img.shields.io/github/stars/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/stargazers) [![Release](https://img.shields.io/github/v/release/Somnius/shadowrealms-ai?style=flat-square&color=c2f66d&labelColor=111513)](https://github.com/Somnius/shadowrealms-ai/releases/latest) · **[Read the story on lefteros.com →](https://lefteros.com/en/apps/shadowrealms-ai/)**
 
-## Latest project: VaultInk, my Obsidian vaults on e-ink
+## VaultInk, my Obsidian vaults on e-ink
 
-**[VaultInk](https://github.com/Somnius/VaultInk)** is firmware (MIT) for the **Xteink X4 Pro** that keeps everything CrossPoint Reader does for books and adds my Obsidian notes: open a vault from the SD card, read notes with their links, callouts, tasks and tables, and later search, edit and sync them with LiveSync. It has a new home screen, quick settings, a welcome guide and Greek all the way through, menus and hyphenation included, polytonic too.
+<a href="https://lefteros.com/en/apps/vaultink/"><img src="assets/cards/vaultink-0-70.webp" alt="VaultInk 0.70" width="100%"></a>
+
+**[VaultInk](https://github.com/Somnius/VaultInk)** is firmware (MIT) for the **Xteink X4 Pro**. It keeps everything CrossPoint Reader does for books and adds my Obsidian notes: read them, search them, follow their links, edit them on the device and sync them both ways with Self-hosted LiveSync. It's at 0.70 now, ten days after the first build, with canvases, comics, flashcards, MOBI and AZW books, Advanced Typography, reading presets, a lock screen and an Android companion app. Greek all the way through, polytonic too.
 
 <p align="center">
   <a href="https://github.com/Somnius/VaultInk"><img src="assets/vaultink/home.webp" width="23%" alt="VaultInk home screen"></a>
@@ -60,9 +72,9 @@ Everything I make, write and have worked on lives at **[lefteros_ · lefteros.co
   <sub>Home, home in Greek, quick settings and the reading toolbar, from the simulator.</sub>
 </p>
 
-It's early: everything so far is tested in the simulator, and the first device tests are starting now.
+Kostas (kos25k) tests it on a real X4 Pro and has opened more than twenty issues; many features came from those. New parts are tried in the simulator first, and each release note says what hasn't been confirmed on a device yet.
 
-**[Install it from your browser →](https://somnius.github.io/VaultInk/)** · [VaultInk on lefteros.com](https://lefteros.com/apps/vaultink) · [The code](https://github.com/Somnius/VaultInk) · <sub>test build</sub>
+**[Install it from your browser →](https://somnius.github.io/VaultInk/)** · [VaultInk on lefteros.com](https://lefteros.com/en/apps/vaultink/) · [0.70 release notes](https://lefteros.com/en/blog/vaultink-0-70/) · [The code](https://github.com/Somnius/VaultInk) · <sub>beta</sub>
 
 ## Tech stack
 
@@ -102,7 +114,7 @@ I built Greek support in under 24 hours, and it's out as a test build for the **
 
 ## Omarchy plugins
 
-Omarchy is an Arch + Hyprland setup by Basecamp. I build plugins for its bar, and five of them got their tooltips back on Omarchy 4.0.4 and are ready for Qt 6.12.
+Omarchy is an Arch + Hyprland setup by Basecamp. I build plugins for its bar. The newest is Oma Top Menu, and five of the older ones got their tooltips back on Omarchy 4.0.4 and are ready for Qt 6.12.
 
 <table>
 <tr>
@@ -146,13 +158,28 @@ Rotate wallpapers from your own folders on a schedule, with a bar icon and a cli
 The Serpantinum shell's widgets brought to Omarchy: <a href="https://github.com/Somnius/serpantinum-omarchy-calendar">calendar</a>, <a href="https://github.com/Somnius/serpantinum-omarchy-power">power</a>, <a href="https://github.com/Somnius/serpantinum-omarchy-media">media</a> and <a href="https://github.com/Somnius/serpantinum-omarchy-bluetooth">Bluetooth</a>.
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://lefteros.com/en/apps/oma-top-menu/"><img src="assets/cards/oma-top-menu.webp" alt="Oma Top Menu"></a>
+<b><a href="https://github.com/Somnius/oma.top.menu">Oma Top Menu</a></b> · <i>new, 0.1.0</i><br>
+The menu of the app you're using (File, Edit, View...) on the left of the top bar, like the macOS or GNOME global menu. Works with GTK and Qt apps, one menu per monitor.<br>
+<a href="https://lefteros.com/en/apps/oma-top-menu/">On lefteros.com →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://lefteros.com/en/apps/mus-eq/"><img src="assets/cards/mus-eq.webp" alt="Mus-Eq"></a>
+<b><a href="https://github.com/Somnius/Mus-Eq">Mus-Eq</a></b> · <i>new, early</i><br>
+Not an Omarchy plugin, but new this week: a music server you run yourself. A small Rust server, a web player on Webamp with the classic Winamp look, radio, and an early Android app.<br>
+<a href="https://lefteros.com/en/apps/mus-eq/">On lefteros.com →</a>
+</td>
+</tr>
 </table>
 
 ## Patches upstream
 
 When a project I use is missing something, I send the fix to the people who make it.
 
-- **[dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)**, Chris Titus's Fedora desktop: kitty that follows the theme, hidden Wi-Fi from the panel, a keyboard layout pill, seconds in the clock, clearer update docs, and skills for terminal assistants in titus-ai. [Where each one stands →](https://lefteros.com/en/apps/dwm-titus/)
+- **[dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)**, Chris Titus's Fedora desktop: merged on main, my agent skills, the Diagnose with AI proposal and eight more pull requests, among them hidden Wi-Fi, a keyboard layout pill, seconds in the clock and occupied tags. [The story →](https://lefteros.com/en/blog/dwm-titus-merged-upstream/)
+- **[Omarchy Mobile](https://omamobile.org)**: testing and fixes for the Pixel 8 Pro port, from the battery to the speakers. [More →](https://lefteros.com/en/apps/omarchy-mobile/)
 - **[nema](https://git.thanosapollo.org/nema/about/)**, Thanos Apollo's XMPP messenger for Android: day separators, room names, thread markers and more, sent the old way, by email. [More →](https://lefteros.com/en/apps/nema/)
 - **[eucWatch](https://github.com/enaon/eucWatch)**, an electric unicycle dash for cheap smartwatches: three fixes that sat in a fork, all merged the same evening. [More →](https://lefteros.com/en/apps/eucwatch/)
 - **[Emojis & Nerd Fonts for Omarchy](https://github.com/farangkao/omarchy-emojis-nerd)**: a Recents tab, Alt+number hotkeys and hints, out in 1.2.1.
@@ -269,7 +296,7 @@ On-device LLMs for phones with MCP tools (search, files, databases), so you don'
 
 | When | What |
 |---|---|
-| **2025 → now** | EDP, IT, ICT and project manager · ShadowRealms AI · CrossInk in Greek and CrossInk-Indic · RecMeets and its Laya model · patches for dwm-titus, nema and eucWatch · Libreboot, NixOS and Omarchy |
+| **2025 → now** | EDP, IT, ICT and project manager · Omarchy Mobile on the Pixel 8 Pro · VaultInk · Mus-Eq · ShadowRealms AI · CrossInk in Greek and CrossInk-Indic · RecMeets and its Laya model · patches for dwm-titus, nema and eucWatch · Libreboot, NixOS and Omarchy |
 | **2023 – 2025** | IT manager and ERP consultant, MPALASKAS YSS SA |
 | **2023** | DevOps, SaaS / PaaS, EDP / TSG, CoreiT Greece |
 | **2019 – 2023** | IT manager and ERP consultant, ALEXANDROS SA |
