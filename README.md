@@ -314,11 +314,11 @@ The long version, with links to each chapter: **[lefteros.com/en/about](https://
 ## Latest on lefteros.com
 
 <!-- POSTS:START -->
+- [Omarchy Mobile after the Call to Arms: seven more phones, why charging stopped at 92 %, and where I need help](https://lefteros.com/en/blog/omarchy-mobile-after-call-to-arms/) · <sub>21 Nov 2026</sub>
+- [Fantasi: images, video clips and songs on your own Omarchy machine, no cloud](https://lefteros.com/en/blog/fantasi-omarchy/) · <sub>20 Nov 2026</sub>
 - [When the systems that manage your infrastructure become the attack surface](https://lefteros.com/en/blog/management-plane-check-point-puppet/) · <sub>18 Nov 2026</sub>
 - [Java4Shell: one Base64 bug in Java, and why your Jira, Jenkins or Keycloak may need a Java update today](https://lefteros.com/en/blog/java4shell/) · <sub>18 Nov 2026</sub>
 - [Call to arms for Omarchy Mobile: making it a real alternative to Android](https://lefteros.com/en/blog/omarchy-mobile-call-to-arms/) · <sub>17 Nov 2026</sub>
-- [Microsoft 365, or rather M364: a Thursday and a Friday from the IT side](https://lefteros.com/en/blog/microsoft-365-outage-november-2026/) · <sub>15 Nov 2026</sub>
-- [Omarchy on the Pixel 8 Pro: it powers off, sleeps, reads NFC, and the 540 mA problem](https://lefteros.com/en/blog/omarchy-mobile-power-pixel-8-pro/) · <sub>15 Nov 2026</sub>
 <!-- POSTS:END -->
 
 <sub>The list updates itself every day from the [lefteros.com feed](https://lefteros.com/en/rss.xml). **[All posts →](https://lefteros.com/en/blog/)**</sub>
